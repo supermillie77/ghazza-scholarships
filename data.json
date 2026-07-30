@@ -10,7 +10,13 @@
     "notes": "The Open University Faculty of Business and Law\nOnly for full time study",
     "link": "https://business-school.open.ac.uk/research/research-degrees/phd-studentships",
     "source": "Updated Scholarships",
-    "row": 3
+    "row": 3,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "PhD"
+    ]
   },
   {
     "id": "s-2",
@@ -23,7 +29,13 @@
     "notes": "Women only. Award is from 5,000-25,000 USD, can be used for any expenses related to the pursuit of the degree (e.g. tuition, research expenses, dissertation write-up support, living expenses). Applicants should either be enrolled or in the process of enrolling in a doctoral program in the humanities or social sciences at an accredited university anywhere in the world.\n",
     "link": "https://www.parc-us-pal.org/tanya-baker-asad-scholarship/",
     "source": "Updated Scholarships",
-    "row": 4
+    "row": 4,
+    "countries": [
+      "Global"
+    ],
+    "levels": [
+      "PhD"
+    ]
   },
   {
     "id": "s-3",
@@ -36,7 +48,13 @@
     "notes": "University of Alberta. Max 5000 CAD. No need for seperate application. All applicants are automatically considered for an award.",
     "link": "https://www.ualberta.ca/en/admissions/tuition-and-scholarships/international-undergraduate-scholarships/index.html",
     "source": "Updated Scholarships",
-    "row": 5
+    "row": 5,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-4",
@@ -49,7 +67,14 @@
     "notes": "See slides from info session here: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fliss-dtp.ac.uk%2Fwp-content%2Fuploads%2F2023%2F12%2FStudent-Briefing-December-2023-final-1.pptx&wdOrigin=BROWSELINK",
     "link": "https://liss-dtp.ac.uk/applying-to-liss/open-competition/",
     "source": "Updated Scholarships",
-    "row": 6
+    "row": 6,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-5",
@@ -62,7 +87,15 @@
     "notes": "Women only. Other English tests may be accepted, but most courses require IELTS.",
     "link": "https://www.ulster.ac.uk/scholarships/the-salam-scholarships?fbclid=IwY2xjawE1L1dleHRuA2FlbQIxMAABHQHIaELIOeAK1WrFA2yPs1ktYF31GiElgheaf9hAbnaltPiPijvACZnNHg_aem_2ZRx3dpQ2EBirOuHFw5MMQ",
     "source": "Updated Scholarships",
-    "row": 7
+    "row": 7,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-6",
@@ -75,7 +108,13 @@
     "notes": "SOAS University of London. See English language requirements here: https://www.soas.ac.uk/english-language-requirements.\n\nAny full-time (1 year) taught master’s degree programme beginning in 2025/26.\nPart-time and 2-year courses are not eligible.\n\nEach award will provide tuition fees in full and a stipend of up to £17,340 to support living and study costs. There will also be one Dr Mai Yamani Scholarship available with accommodation provided by GoodEnough College. This scholarship will cover tuition fees in full, accommodation and up to £3,340 to be paid to the awardee.",
     "link": "https://www.soas.ac.uk/study/student-life/finance/scholarships/dr-mai-yamani-scholarship",
     "source": "Updated Scholarships",
-    "row": 8
+    "row": 8,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-7",
@@ -88,7 +127,13 @@
     "notes": "Only for certain Master's in Engineering degrees.",
     "link": "https://www.sdu.dk/en/uddannelse/fees_and_funding/scholarships",
     "source": "Updated Scholarships",
-    "row": 9
+    "row": 9,
+    "countries": [
+      "Denmark"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-8",
@@ -101,7 +146,13 @@
     "notes": "For BSc Mathematics, Modeling and Data Analytics at Constructor University. The scholarship will cover a part of the tuition fees in the maximum amount of €3,600 for Fall 2025",
     "link": "https://constructor.university/programs/undergraduate-education/mathematics-modeling-data-analytics/financing#sparkasse-mathematics-scholarship",
     "source": "Updated Scholarships",
-    "row": 10
+    "row": 10,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-9",
@@ -114,7 +165,13 @@
     "notes": "For 2 high-achieving students from Gaza per year. Requires service project for Gaza's revitalization. Applicants must complete Tawjihi or high school equivalent by 2025. GPA minimum: 3.2 to maintain scholarship. Community engagement and project participation required.",
     "link": "https://docs.google.com/forms/d/e/1FAIpQLSeRckMNBLiS9tdczwJyTd8BR18T6lCLzT4KQEtAHyNBVu-aPg/viewform",
     "source": "Updated Scholarships",
-    "row": 11
+    "row": 11,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-10",
@@ -127,7 +184,15 @@
     "notes": "Applications are accepted between 10 Janurary and 20 February of every year\n1 year Turkish language course is also provided",
     "link": "https://www.turkiyeburslari.gov.tr/",
     "source": "Updated Scholarships",
-    "row": 12
+    "row": 12,
+    "countries": [
+      "Türkiye"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-11",
@@ -140,7 +205,14 @@
     "notes": "Application cycle for the 2026/2027 academic year is expected to open in November 2025\n\nOther English tests besides IELTS may be accepted. \n\nScholarship administered with select partner universities, including Lancaster (https://www.lancaster.ac.uk/study/fees-and-funding/scholarships-and-bursaries/higher-education-scholarships-for-palestinians/ ) and Sussex (https://archive.sussex.ac.uk/study/scholarships/1611-HESPAL-Higher-Education-Scholarships-Scheme-for-the-Palestinian-Territories )",
     "link": "https://www.britishcouncil.ps/en/study-uk/scholarships/hespal",
     "source": "Updated Scholarships",
-    "row": 13
+    "row": 13,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-12",
@@ -153,7 +225,13 @@
     "notes": "Focus on community service and leadership\nCompleted 2026 applications will start to be accepted on 01 Dec 2025\nWill be studying in their home country or another country in the developing world",
     "link": "https://www.wellsmountaininitiative.org/",
     "source": "Updated Scholarships",
-    "row": 14
+    "row": 14,
+    "countries": [
+      "Developing countries"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-13",
@@ -166,7 +244,13 @@
     "notes": "For BSc Software, Data and Technology - Financing at Constructor University. You must pass the scholarship test, which seems time-sensitive and dependent on reliable internet: You will receive a unique link to the test which is valid for 7 days. You will have 4 hours to complete all the tasks.",
     "link": "https://constructor.university/programs/undergraduate-education/software-data-and-technology/sdt-financing#expand",
     "source": "Updated Scholarships",
-    "row": 15
+    "row": 15,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-14",
@@ -179,7 +263,13 @@
     "notes": "For Gazans displaced due to conflict, residing outside the UK\nCovers most full-time postgraduate taught degrees",
     "link": "https://www.leeds.ac.uk/masters-scholarships-bursaries/doc/gazan-humanitarian-scholarship-1",
     "source": "Updated Scholarships",
-    "row": 16
+    "row": 16,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-15",
@@ -192,7 +282,13 @@
     "notes": "They are offering at least 5 IELTS Fee scholarships to cover IELTS test fees so that way students can apply to the Durham Master's scholarship in 2026. More info here: https://durhampalestine.webspace.durham.ac.uk/scholarships/ieltsscholarship/ ",
     "link": "https://durhampalestine.webspace.durham.ac.uk/scholarships/",
     "source": "Updated Scholarships",
-    "row": 17
+    "row": 17,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-16",
@@ -205,7 +301,14 @@
     "notes": "Supports two Palestinian students annually at top institutions",
     "link": "https://www.uni-med.net/partner-news/call-for-applications-scholarships-for-palestinian-students-in-singapore-apply-by-march-30th-2025/",
     "source": "Updated Scholarships",
-    "row": 18
+    "row": 18,
+    "countries": [
+      "Singapore"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-17",
@@ -218,7 +321,13 @@
     "notes": "University of Manchester",
     "link": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/",
     "source": "Updated Scholarships",
-    "row": 19
+    "row": 19,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-18",
@@ -231,7 +340,13 @@
     "notes": "Leiden University. Up to € 30,000 for one academic year (maximum), depending on tuition fees and budget. ",
     "link": "https://www.universiteitleiden.nl/en/scholarships/sea/leiden-university-fund---lutfia-rabbani-scholarship-fund",
     "source": "Updated Scholarships",
-    "row": 20
+    "row": 20,
+    "countries": [
+      "Netherlands"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-19",
@@ -244,7 +359,13 @@
     "notes": "University of St. Andrews, for one-year postgraduate taught course of study",
     "link": "https://www.st-andrews.ac.uk/study/fees-and-funding/scholarships/scholarships-catalogue/postgraduate-scholarships/st-andrews-education-for-palestinian-students/",
     "source": "Updated Scholarships",
-    "row": 21
+    "row": 21,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-20",
@@ -257,7 +378,13 @@
     "notes": "Eligible for up to 10.000 € funding and can undertake fellowships for up to six months. Please note that you must be an enrolled student.\n\nhttps://www.bayer-foundation.com/sites/g/files/vrxlpx38116/files/2024-12/Final_2025_Guidelines_Scientific_fellowships_EN_0.pdf ",
     "link": "https://www.bayer-foundation.com/science/fellowships-stipends#ForStudentTeachers",
     "source": "Updated Scholarships",
-    "row": 22
+    "row": 22,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Research fellowship"
+    ]
   },
   {
     "id": "s-21",
@@ -270,7 +397,16 @@
     "notes": "Islamic Development Bank offers various scholarships with different requirements",
     "link": "https://www.isdb.org/scholarships-backup/scholarship-programs",
     "source": "Updated Scholarships",
-    "row": 23
+    "row": 23,
+    "countries": [
+      "Various"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD",
+      "Postdoctoral"
+    ]
   },
   {
     "id": "s-22",
@@ -283,7 +419,13 @@
     "notes": "Sheffield University.  £10,000 award per year of tuition. The maximum value is £30,000 for three year programmes and £40,000 for four year programmes",
     "link": "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate",
     "source": "Updated Scholarships",
-    "row": 24
+    "row": 24,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-23",
@@ -296,7 +438,13 @@
     "notes": "University of Bristol. £2000 one-time living cost bursary for an international student on a postgraduate taught programme in the School of Geographical Sciences",
     "link": "https://www.bristol.ac.uk/students/support/finances/scholarships/phyllis-mary-morris-bursaries/",
     "source": "Updated Scholarships",
-    "row": 25
+    "row": 25,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-24",
@@ -309,7 +457,13 @@
     "notes": "University of Bristol. £3000 one-time living cost bursary for postgraduate taught programme in the Faculty of Arts, Social Sciences and Law",
     "link": "https://www.bristol.ac.uk/students/support/finances/scholarships/wong-pakshong-bursary/",
     "source": "Updated Scholarships",
-    "row": 26
+    "row": 26,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-25",
@@ -322,7 +476,13 @@
     "notes": "London School of Economics (LSE) studying a one year taught master's programme in MSc Human Rights or MSc Human Rights and Politics. For your application to be considered you must have met both of the following conditions by the deadline: \n\n- received a conditional or unconditional offer of study at LSE\n\n- sucessfully submitted a Graduate Financial Support Application",
     "link": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/sir-siegmund-warburg-scholarship",
     "source": "Updated Scholarships",
-    "row": 27
+    "row": 27,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-26",
@@ -335,7 +495,13 @@
     "notes": "London School of Economics. For diploma and taught master's study\n\nThe value of GSS awards ranges from £5,000 to £15,000, depending on financial need.\n\nThis scheme is aimed at supplementing applicants who already have some form of funding secured and need a bit more to cover all the costs at LSE. If you have a greater need, and you submit a personal statement with your Graduate Financial Support Application, you will be considered for other LSE scholarships which can offer a higher level of funding.",
     "link": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/pgt-application-overview",
     "source": "Updated Scholarships",
-    "row": 28
+    "row": 28,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-27",
@@ -348,7 +514,13 @@
     "notes": "Goldsmiths University of London.\nFull tuition fee waiver, a living allowance of £19,550 for their year of study, and we will also pay for a return trip to and from the UK.",
     "link": "https://www.gold.ac.uk/fees-funding/scholarships/palestinian-scholarship/",
     "source": "Updated Scholarships",
-    "row": 29
+    "row": 29,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-28",
@@ -361,7 +533,15 @@
     "notes": "Must meet academic/language requirements of Indian institutions",
     "link": "https://www.birzeit.edu/en/announcements/call-applications-atal-bihari-vajpayee-general-scholarship-scheme-a1201-palestinian",
     "source": "Updated Scholarships",
-    "row": 30
+    "row": 30,
+    "countries": [
+      "India"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-29",
@@ -374,7 +554,13 @@
     "notes": "University College London. ",
     "link": "https://www.ucl.ac.uk/scholarships/ucl-humanitarian-scholarship",
     "source": "Updated Scholarships",
-    "row": 31
+    "row": 31,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-30",
@@ -387,7 +573,13 @@
     "notes": "Priority for those from Gaza or refugee camps; offer required",
     "link": "https://www.sussex.ac.uk/study/fees-funding/masters-scholarships/view/1801-Scholarships-for-Palestine",
     "source": "Updated Scholarships",
-    "row": 32
+    "row": 32,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-31",
@@ -400,7 +592,13 @@
     "notes": "Priority for those from Gaza or refugee camps; offer required\nMust have offer to study at Sussex (starting Sept 2025); open to holders of Palestinian ID/travel docs; priority given to applicants from Gaza, refugee camps, or those displaced after October 2023; not open to those with a Master’s degree or previous international study experience.",
     "link": "https://www.sussex.ac.uk/study/fees-funding/masters-scholarships/view/1801-Scholarships-for-Palestine",
     "source": "Updated Scholarships",
-    "row": 33
+    "row": 33,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-32",
@@ -413,7 +611,13 @@
     "notes": "Closing date(s): Three rounds each year closing 1 March, 1 July and 1 November.\nConsists of a $30,500 per annum stipend plus domestic tuition fees for up to three years\nOpen to graduates of any university worldwide with excellent academic records    \n",
     "link": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships",
     "source": "Updated Scholarships",
-    "row": 34
+    "row": 34,
+    "countries": [
+      "New Zealand"
+    ],
+    "levels": [
+      "PhD"
+    ]
   },
   {
     "id": "s-33",
@@ -426,7 +630,13 @@
     "notes": "Full tuition is available for 36 months\n",
     "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html",
     "source": "Updated Scholarships",
-    "row": 35
+    "row": 35,
+    "countries": [
+      "New Zealand"
+    ],
+    "levels": [
+      "PhD"
+    ]
   },
   {
     "id": "s-34",
@@ -439,7 +649,13 @@
     "notes": "Information about the 2026 application will be shared in September/October 2025.\n\nPalestinian researchers with recent academic/research appointments; born in Palestine or refugee camps",
     "link": "https://global.mit.edu/gmaf-palestine/",
     "source": "Updated Scholarships",
-    "row": 36
+    "row": 36,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Research fellowship"
+    ]
   },
   {
     "id": "s-35",
@@ -452,7 +668,14 @@
     "notes": "Must be in a higher degree by research program. More on English language requirements here: https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html#postgraduate ",
     "link": "https://www.sydney.edu.au/scholarships/australian-government-research-training-program.html",
     "source": "Updated Scholarships",
-    "row": 37
+    "row": 37,
+    "countries": [
+      "Australia"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-36",
@@ -465,7 +688,15 @@
     "notes": "",
     "link": "https://stipendiumhungaricum.hu",
     "source": "Updated Scholarships",
-    "row": 38
+    "row": 38,
+    "countries": [
+      "Hungary"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-37",
@@ -478,7 +709,13 @@
     "notes": "Open to those who hold an offer for any one-year full-time or two-year part-time taught master's course starting in the 2025-26 academic year,",
     "link": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/crisis-scholarship-scheme",
     "source": "Updated Scholarships",
-    "row": 39
+    "row": 39,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-38",
@@ -491,7 +728,15 @@
     "notes": "For students in a STEM field\nAwards will be for the amount of at least $10,000",
     "link": "https://isp.msu.edu/information-resources/student-funding/ss-scholarship-fund/",
     "source": "Updated Scholarships",
-    "row": 40
+    "row": 40,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-39",
@@ -504,7 +749,14 @@
     "notes": "Please note that SAFE is a pilot project, therefore only one call is foreseen at this stage\n\nApplications must be submitted by prospective host institutions on behalf of researchers who meet the eligibility criteria",
     "link": "https://saferesearchers.eu/",
     "source": "Updated Scholarships",
-    "row": 41
+    "row": 41,
+    "countries": [
+      "Europe"
+    ],
+    "levels": [
+      "PhD",
+      "Postdoctoral"
+    ]
   },
   {
     "id": "s-40",
@@ -517,7 +769,13 @@
     "notes": "Special consideration for displaced and marginalized students Algeria, Comoros, Djibouti, Egypt, Iraq, Jordan, Lebanon, Libya, Mauritania, Morocco, Palestine, Somalia, Sudan, Syria, Tunisia, Yemen",
     "link": "https://www.aucegypt.edu/admissions/fellowships/listing/pathways-beyond-neoliberalism",
     "source": "Updated Scholarships",
-    "row": 42
+    "row": 42,
+    "countries": [
+      "Egypt"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-41",
@@ -530,7 +788,14 @@
     "notes": "£19,800. Outstanding young leaders focusing on public service. Age must be under 24. Will consider applicants up to the age of 27 in some cases",
     "link": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
     "source": "Updated Scholarships",
-    "row": 43
+    "row": 43,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-42",
@@ -543,7 +808,14 @@
     "notes": "SOAS University of London. See English language requirements here: https://www.soas.ac.uk/english-language-requirements ",
     "link": "https://www.soas.ac.uk/study/student-life/finance/scholarships/felix-non-indian-scholarship",
     "source": "Updated Scholarships",
-    "row": 44
+    "row": 44,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-43",
@@ -556,7 +828,14 @@
     "notes": "Open to Arab students who have received an official acceptance letter for a Master’s or a Ph.D programme in the Netherlands.\n\nThe maximum scholarship amount is €15,000.",
     "link": "https://rabbanifoundation.org/scholarships/msr-scholarships/",
     "source": "Updated Scholarships",
-    "row": 45
+    "row": 45,
+    "countries": [
+      "Netherlands"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-44",
@@ -569,7 +848,13 @@
     "notes": "Multiple awards; based on community service, GPA, Arabic background",
     "link": "https://www.paccusa.org/scholarship.html",
     "source": "Updated Scholarships",
-    "row": 46
+    "row": 46,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-45",
@@ -582,7 +867,15 @@
     "notes": "For those with refugee or displaced person status\nMultiple options available",
     "link": "https://www.london.ac.uk/study/fees-funding/funding-study/scholarships-bursaries/refugee-displaced-persons-scholarships",
     "source": "Updated Scholarships",
-    "row": 47
+    "row": 47,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-46",
@@ -595,7 +888,13 @@
     "notes": "",
     "link": "https://www.chevening.org/scholarship/occupied-palestinian-territories/",
     "source": "Updated Scholarships",
-    "row": 48
+    "row": 48,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-47",
@@ -608,7 +907,13 @@
     "notes": "Around 20 - 30 scholarships are awarded annually",
     "link": "https://saidfoundation.org/scholarships/",
     "source": "Updated Scholarships",
-    "row": 49
+    "row": 49,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-48",
@@ -621,7 +926,13 @@
     "notes": "For a citizen of Gaza",
     "link": "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/postgraduate/gaza?fbclid=IwY2xjawE1L1BleHRuA2FlbQIxMQABHUYiOfAuU5QnIwVHQnSX8y2XajvK_2K-u1jWtg5NedP8LruuwaA_tQnesA_aem_5pJWcQwM4xQzllv5kRbv4Q",
     "source": "Updated Scholarships",
-    "row": 50
+    "row": 50,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-49",
@@ -634,7 +945,13 @@
     "notes": "For inquiries, please contact Amideast :For Gaza applicants: Tel: 02-2408023 ext. 130",
     "link": "https://www.ireland.ie/en/ramallah/about/ireland-palestine-scholarship-programme/",
     "source": "Updated Scholarships",
-    "row": 51
+    "row": 51,
+    "countries": [
+      "Ireland"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-50",
@@ -647,7 +964,14 @@
     "notes": "Submitting English test scores is optional",
     "link": "https://www.amideast.org/our-work/find-a-scholarship/graduate-study/fulbright/how-to-apply/fulbright-foreign-student-program-for-west-bank-and",
     "source": "Updated Scholarships",
-    "row": 52
+    "row": 52,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-51",
@@ -660,7 +984,13 @@
     "notes": "McGill University. In addition to Master's degrees, the following \"second-entry professional undergraduate degrees\" are eligible: BCL/JD (Law), DMD (Dentistry), MDCM (Medicine)",
     "link": "https://mccallmacbainscholars.org/",
     "source": "Updated Scholarships",
-    "row": 53
+    "row": 53,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-52",
@@ -673,7 +1003,15 @@
     "notes": "Must hold a PhD already. Fellowship for displaced Arab researchers / scholars at risk",
     "link": "https://innolight.qrdi.org.qa/opportunities/p/73",
     "source": "Updated Scholarships",
-    "row": 54
+    "row": 54,
+    "countries": [
+      "Qatar"
+    ],
+    "levels": [
+      "Postdoctoral",
+      "Research fellowship",
+      "Scholars at risk"
+    ]
   },
   {
     "id": "s-53",
@@ -686,7 +1024,13 @@
     "notes": "Queen's University Belfast. If the application opens, it is expected to open by late 2025 and close by March 2026. Please check regularly in advance.\n",
     "link": "https://www.qub.ac.uk/Study/international-students/international-scholarships/middle-east-north-africa/copty-scholarship-terms-and-conditions/",
     "source": "Updated Scholarships",
-    "row": 55
+    "row": 55,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-54",
@@ -699,7 +1043,14 @@
     "notes": "Unviersity of Padua. If the application opens, it is expected to open by May 2026. Please check regularly in advance.",
     "link": "https://www.unipd.it/en/students-at-risk",
     "source": "Updated Scholarships",
-    "row": 56
+    "row": 56,
+    "countries": [
+      "Italy"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-55",
@@ -712,7 +1063,14 @@
     "notes": "If the application opens, it is expected to open by October 2025 and close by December 2025. Please check regularly in advance.",
     "link": "https://jerusalem.consulfrance.org/-Universitaire-et-administrative-596-",
     "source": "Updated Scholarships",
-    "row": 57
+    "row": 57,
+    "countries": [
+      "France"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-56",
@@ -725,7 +1083,18 @@
     "notes": "Max award of 6,000 USD. Applicants must be scholars who have earned their PhD or doctoral students enrolled in a recognized degree program. Funds research focused on Gaza that must take place in Palestine, Jordan, Lebanon, or Egypt",
     "link": "https://www.parc-us-pal.org/fellowships-for-palestinians/",
     "source": "Updated Scholarships",
-    "row": 58
+    "row": 58,
+    "countries": [
+      "Palestine",
+      "Jordan",
+      "Lebanon",
+      "Egypt"
+    ],
+    "levels": [
+      "PhD",
+      "Postdoctoral",
+      "Research fellowship"
+    ]
   },
   {
     "id": "s-57",
@@ -738,7 +1107,14 @@
     "notes": "Applicants have to be nominated, and they cannot nominate themselves. They are nominated by the management (presidiums/rectorates) of an institution or organisation which is a legal entity domiciled in Germany and which carries out an activity in the field of science, research and teaching and/or the protection of human rights, the promotion of peace and democracy or the rule of law. The program is administered at several universities, including Technical University of Munich https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/students-at-risk-hilde-domin-programme ",
     "link": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/hilde-domin-programme/",
     "source": "Updated Scholarships",
-    "row": 59
+    "row": 59,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-58",
@@ -751,7 +1127,13 @@
     "notes": "University of Exeter. If the application opens, it is expected to close by May 2026. Please check regularly in advance.",
     "link": "https://www.exeter.ac.uk/study/funding/award/?id=5536",
     "source": "Updated Scholarships",
-    "row": 60
+    "row": 60,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-59",
@@ -764,7 +1146,14 @@
     "notes": "Academic year starts usually in February. Choose to study at one of many Brazilian universities.",
     "link": "https://osc.int/scholarships/",
     "source": "Updated Scholarships",
-    "row": 61
+    "row": 61,
+    "countries": [
+      "Brazil"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-60",
@@ -777,7 +1166,14 @@
     "notes": "\"Applications will be screened to assess English language fluency in speaking and writing.\" Must have reliable access to computer and internet. All work is done remotely. If the application opens, it is expected to open by October 2025. Please check regularly in advance.",
     "link": "https://emergingtalent.mit.edu/apply/#eligibilitycriteria",
     "source": "Updated Scholarships",
-    "row": 62
+    "row": 62,
+    "countries": [
+      "United States",
+      "Remote"
+    ],
+    "levels": [
+      "Certificate programme"
+    ]
   },
   {
     "id": "s-61",
@@ -790,7 +1186,13 @@
     "notes": "University College London",
     "link": "https://www.ucl.ac.uk/scholarships/ucl-access-opportunity-scholarship",
     "source": "Updated Scholarships",
-    "row": 63
+    "row": 63,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-62",
@@ -803,7 +1205,14 @@
     "notes": "The aim of this initiative is to match students wishing to pursue a research degree with supervising professors from Canada.",
     "link": "https://applicants.pssar.ca/",
     "source": "Updated Scholarships",
-    "row": 64
+    "row": 64,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-63",
@@ -816,7 +1225,14 @@
     "notes": "King Fahd University of Petroleum & Minerals Chemical Engineering Department",
     "link": "https://che.kfupm.edu.sa/academic-programs/scholarships",
     "source": "Updated Scholarships",
-    "row": 65
+    "row": 65,
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-64",
@@ -829,7 +1245,13 @@
     "notes": "Applicants must be nominated by their secondary school and apply to undergraduate studies at the University of Toronto.",
     "link": "https://future.utoronto.ca/finances/awards/admission-awards/",
     "source": "Updated Scholarships",
-    "row": 66
+    "row": 66,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-65",
@@ -842,7 +1264,15 @@
     "notes": "RWTH Aachen University. The funding is granted for eight months, with a funding amount of up to 934 euros per month.",
     "link": "https://www.rwth-aachen.de/go/id/bgvloc?lidx=1#aaaaaaaaabgvmeh",
     "source": "Updated Scholarships",
-    "row": 67
+    "row": 67,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-66",
@@ -855,7 +1285,13 @@
     "notes": "If the application opens, it is expected to open by March 2026. However, students will need to apply for the degree before the scholarship. Please check regularly in advance.",
     "link": "https://www.qu.edu.qa/en-us/students/admission/scholarships/Pages/types.aspx#competitive-scholarships",
     "source": "Updated Scholarships",
-    "row": 68
+    "row": 68,
+    "countries": [
+      "Qatar"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-67",
@@ -868,7 +1304,13 @@
     "notes": "Joint MSc in Geography of Environmental Risks and Human Security at the University of Bonn\n\nMonthly payments of 992 euros for graduates.\nPayments towards health, accident and personal liability insurance cover\nTravel allowance, unless these expenses are covered by the home country or another source of funding\nUnder certain circumstances, scholarship holders may receive the following additional benefits:\nMonthly rent subsidy\nMonthly allowance for accompanying members of family",
     "link": "https://unu.edu/ehs/learning/msc-geography-environmental-risks-and-human-security",
     "source": "Updated Scholarships",
-    "row": 69
+    "row": 69,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-68",
@@ -881,7 +1323,13 @@
     "notes": "Full-time $8,000 AUD in the year of receipt of the scholarship. Part-time $4,000 AUD in the year of receipt of the scholarship.",
     "link": "https://www.sydney.edu.au/scholarships/b/peace-and-social-justice-scholarship.html",
     "source": "Updated Scholarships",
-    "row": 70
+    "row": 70,
+    "countries": [
+      "Australia"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-69",
@@ -894,7 +1342,14 @@
     "notes": "London School of Economics International Development MRes/Phd programme ",
     "link": "https://www.lse.ac.uk/international-development/study/LSE-ID-Project-Studentships",
     "source": "Updated Scholarships",
-    "row": 71
+    "row": 71,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-70",
@@ -907,7 +1362,15 @@
     "notes": "The research scholarship (research fellowship, PhD, Postdoc) is available to post-graduate researchers in any discipline (who hold a master’s degree is the minimum qualification required) who are planning to come to Switzerland to pursue research or further studies at doctoral or post-doctoral level.\n\nArt scholarships are open to art students wishing to pursue an initial arts master’s degree in Switzerland.",
     "link": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html#557188199",
     "source": "Updated Scholarships",
-    "row": 72
+    "row": 72,
+    "countries": [
+      "Switzerland"
+    ],
+    "levels": [
+      "PhD",
+      "Postdoctoral",
+      "Research fellowship"
+    ]
   },
   {
     "id": "s-71",
@@ -920,7 +1383,14 @@
     "notes": "University of Glasgow, Applications for this scholarship will open in approximately October 2025 for 2026/27 entry. ",
     "link": "https://www.gla.ac.uk/scholarships/thedimaalhajscholarship/",
     "source": "Updated Scholarships",
-    "row": 73
+    "row": 73,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-72",
@@ -933,7 +1403,13 @@
     "notes": "",
     "link": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships-opening-and-closing-dates",
     "source": "Updated Scholarships",
-    "row": 74
+    "row": 74,
+    "countries": [
+      "Australia"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-73",
@@ -946,7 +1422,16 @@
     "notes": "Women only. Max award is $12,500",
     "link": "https://www.peointernational.org/educational-support/international-peace-scholarship-fund/eligibility-and-application-process/",
     "source": "Updated Scholarships",
-    "row": 75
+    "row": 75,
+    "countries": [
+      "Canada",
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-74",
@@ -959,7 +1444,13 @@
     "notes": "Women professionals in STEM fields with a bachelor's degree and two years of experience\nAlbania, Algeria, Cameroon, Egypt, Jordan, Kazakhstan, Kenya, Kyrgyzstan, Lebanon, Libya, Morocco, Nigeria, Pakistan, Palestinian Territories, Rwanda, Sierra Leone, South Africa, Tajikistan, Tunisia, Turkmenistan, Uzbekistan, Zimbabwe        TechWomen Eligibility and Application",
     "link": "https://www.techwomen.org/participants/eligibility-and-application",
     "source": "Updated Scholarships",
-    "row": 76
+    "row": 76,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Certificate programme"
+    ]
   },
   {
     "id": "s-75",
@@ -972,7 +1463,14 @@
     "notes": "In order to be considered for this scholarship, you must select the Weidenfeld-Hoffmann Scholarships and Leadership Programme in the University of Oxford Scholarships section of the University's graduate application form and submit your application for graduate study by the relevant December or January deadline for your course.\n\nStipend is at least £20,780. The scholarships aim to support outstanding university graduates and professionals, mainly from developing and emerging economies, and who would not otherwise be able to support themselves to study at Oxford.  ",
     "link": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/weidenfeld-hoffmann-scholarships-and-leadership-programme",
     "source": "Updated Scholarships",
-    "row": 77
+    "row": 77,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-76",
@@ -985,7 +1483,14 @@
     "notes": "",
     "link": "https://www.gatescambridge.org/apply/timeline/",
     "source": "Updated Scholarships",
-    "row": 78
+    "row": 78,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-77",
@@ -998,7 +1503,13 @@
     "notes": "$10,000 CAD in first year (non-renewable). Automatic consideration; a separate application is not required)",
     "link": "https://future.utoronto.ca/finances/awards/university-of-toronto-scholars-program/",
     "source": "Updated Scholarships",
-    "row": 79
+    "row": 79,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-78",
@@ -1011,7 +1522,13 @@
     "notes": "$15,000 CAD in first year (non-renewable). Automatic consideration; a separate application is not required)",
     "link": "https://future.utoronto.ca/scholarships/presidents-scholars-of-excellence-program/",
     "source": "Updated Scholarships",
-    "row": 80
+    "row": 80,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-79",
@@ -1024,7 +1541,15 @@
     "notes": "University of Montreal (Université de Montréal) is a French-language university. However, many graduate programs are in English. Undergraduate programs appear to be in French. The scholarship covers some, but not all, tuition fees.",
     "link": "https://admission.umontreal.ca/en/scholarship-for-international-students/",
     "source": "Updated Scholarships",
-    "row": 81
+    "row": 81,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-80",
@@ -1037,7 +1562,14 @@
     "notes": "5000 Euro",
     "link": "https://www.studyinnl.org/finances/nl-scholarship",
     "source": "Updated Scholarships",
-    "row": 82
+    "row": 82,
+    "countries": [
+      "Netherlands"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-81",
@@ -1050,7 +1582,14 @@
     "notes": "\nArchitectural Association\nSchool of Architecture. The scholarship is awarded for the full duration of the five-year course in architecture comprising the Intermediate Programme and Diploma Programme. The scholarship is available to students who are commencing their studies in the First Year of the three-year Intermediate Programme, and upon successful completion of their studies go on to enter the two-year Diploma Programme.",
     "link": "https://www.aaschool.ac.uk/admissions/feesandfinancialassistance/albukharyscholarships",
     "source": "Updated Scholarships",
-    "row": 83
+    "row": 83,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Certificate programme"
+    ]
   },
   {
     "id": "s-82",
@@ -1063,7 +1602,13 @@
     "notes": "Open to citizens of developing countries including Palestine; must have 3+ years development-related work experience",
     "link": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
     "source": "Updated Scholarships",
-    "row": 84
+    "row": 84,
+    "countries": [
+      "Various"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-83",
@@ -1076,7 +1621,14 @@
     "notes": "You need to first apply and be accepted by a university in the Netherlands. Scholarship is only for about 2500 Euro per semester or per year.",
     "link": "https://www.hanuniversity.com/en/study-and-living/scholarships/",
     "source": "Updated Scholarships",
-    "row": 85
+    "row": 85,
+    "countries": [
+      "Netherlands"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-84",
@@ -1089,7 +1641,13 @@
     "notes": "Unclear",
     "link": "",
     "source": "Updated Scholarships",
-    "row": 86
+    "row": 86,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Not specified"
+    ]
   },
   {
     "id": "s-85",
@@ -1102,7 +1660,15 @@
     "notes": "Socioeconomically underserved students. Must reside in eligible MENA countries. American University of Beirut, American University in Cairo, Lebanese American University",
     "link": "https://www.tomorrowsleadersprogram.org/?sfnsn=wa",
     "source": "Updated Scholarships",
-    "row": 87
+    "row": 87,
+    "countries": [
+      "Lebanon"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-86",
@@ -1115,7 +1681,14 @@
     "notes": "For Palestinian students (priority: West Bank, Gaza, refugee camps); must hold an offer from Goldsmiths for 2025; must require UK Student Visa; scholarship covers one year only (if on two-year PG course); prioritized for applicants with no prior international university experience or completed postgraduate degree",
     "link": "https://www.gold.ac.uk/fees-funding/scholarships/palestinian-scholarship/",
     "source": "Updated Scholarships",
-    "row": 88
+    "row": 88,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-87",
@@ -1128,7 +1701,14 @@
     "notes": "For Palestinian students from Gaza in Egypt/France",
     "link": "https://www.ifporient.org/scholarship-students-from-gaza-2024-2025/",
     "source": "Updated Scholarships",
-    "row": 89
+    "row": 89,
+    "countries": [
+      "France"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-88",
@@ -1141,7 +1721,14 @@
     "notes": "Open to Palestinians; leadership and academic merit emphasized",
     "link": "https://palestinianaffairs.state.gov/education/the-fulbright-foreign-student-program-for-2025-2026/",
     "source": "Updated Scholarships",
-    "row": 90
+    "row": 90,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-89",
@@ -1154,7 +1741,13 @@
     "notes": "For students from Gaza",
     "link": "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/postgraduate/gaza",
     "source": "Updated Scholarships",
-    "row": 91
+    "row": 91,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-90",
@@ -1167,7 +1760,14 @@
     "notes": "Offered through the Palestinian Ministry; available at 5 Brunei institutions: UBD, PB, UNISSA, UTB, KUPU SB",
     "link": "https://www.mohe.pna.ps/scholarships/Post/5948",
     "source": "Updated Scholarships",
-    "row": 92
+    "row": 92,
+    "countries": [
+      "Brunei"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-91",
@@ -1180,7 +1780,15 @@
     "notes": "For Arab American students pursuing degrees in mass communications, journalism, radio, TV, and film.",
     "link": "https://support.adc.org/a/shaheenscholarship",
     "source": "Updated Scholarships",
-    "row": 93
+    "row": 93,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-92",
@@ -1193,7 +1801,13 @@
     "notes": "For individuals displaced by crisis in Gaza or West Bank",
     "link": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/crisis-scholarship-scheme",
     "source": "Updated Scholarships",
-    "row": 94
+    "row": 94,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-93",
@@ -1206,7 +1820,15 @@
     "notes": "Research Position\nOffers research positions in bioinformatics, computational genomics, and data science; funding based on specific roles",
     "link": "https://alserlab.github.io/",
     "source": "Updated Scholarships",
-    "row": 95
+    "row": 95,
+    "countries": [
+      "Georgia"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-94",
@@ -1219,7 +1841,13 @@
     "notes": "Yes, for displaced Palestinians and refugees\nOpen to Palestinians, refugees, and displaced Arabs seeking an MBA program through MOOCs",
     "link": "https://www.tag-gu.global/News/en/news/5885#",
     "source": "Updated Scholarships",
-    "row": 96
+    "row": 96,
+    "countries": [
+      "Jordan"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-95",
@@ -1232,7 +1860,14 @@
     "notes": "Palestine refugees demonstrating financial need and academic excellence",
     "link": "https://www.unrwa.org/what-we-do/university-scholarships",
     "source": "Updated Scholarships",
-    "row": 97
+    "row": 97,
+    "countries": [
+      "Global"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-96",
@@ -1245,7 +1880,13 @@
     "notes": "King's College London Postgraduate Master’s Degree in a health or health science subject",
     "link": "https://www.kcl.ac.uk/the-dr-maisara-alrayyes-scholarship",
     "source": "Updated Scholarships",
-    "row": 98
+    "row": 98,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-97",
@@ -1258,7 +1899,14 @@
     "notes": "£12,000 per annum\nOpen to Gazan citizens displaced outside Gaza, not in the UK; must apply for a course at Leeds beforehand",
     "link": "https://www.leeds.ac.uk/undergraduate-funding-university/doc/gazan-humanitarian-scholarship",
     "source": "Updated Scholarships",
-    "row": 99
+    "row": 99,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-98",
@@ -1271,7 +1919,13 @@
     "notes": "MBA. Open to Syrian and Palestinian MBA students with demonstrated financial need and leadership potential",
     "link": "https://www.insead.edu/insead-said-foundation-scholarship-fund-syrian-and-palestinian-mba-students",
     "source": "Updated Scholarships",
-    "row": 100
+    "row": 100,
+    "countries": [
+      "INSEAD campuses"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-99",
@@ -1284,7 +1938,15 @@
     "notes": "Palestinian medical students from West Bank, Gaza, or refugee camps",
     "link": "https://www.cubasi.cu/en/news/cuba-offers-200-fully-paid-scholarships-palestinian-medical-students-study-island",
     "source": "Updated Scholarships",
-    "row": 101
+    "row": 101,
+    "countries": [
+      "Cuba"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-100",
@@ -1297,7 +1959,15 @@
     "notes": "Scholars at Risk program. 25,000 USD for the year.",
     "link": "https://www.scholarrescuefund.org/for-scholars/",
     "source": "Updated Scholarships",
-    "row": 102
+    "row": 102,
+    "countries": [
+      "Global"
+    ],
+    "levels": [
+      "Postdoctoral",
+      "Research fellowship",
+      "Scholars at risk"
+    ]
   },
   {
     "id": "s-101",
@@ -1310,7 +1980,13 @@
     "notes": "University of Washington. Applicants can fill out this Emergency Situation form to apply for scholarship. Exact amount awarded seems dependent on individual situation. Applicants from Gaza are encouraged to apply.",
     "link": "https://admit.washington.edu/contact/have-a-question/disasteroremergency/",
     "source": "Updated Scholarships",
-    "row": 103
+    "row": 103,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-102",
@@ -1323,7 +1999,15 @@
     "notes": "Full-time only// Possibly TOEFL/IELTS waived case-by-case\nNon-EU/EEA students with excellent academic record and extra-curricular achievements",
     "link": "https://tas.unitbv.ro",
     "source": "Updated Scholarships",
-    "row": 104
+    "row": 104,
+    "countries": [
+      "Romania"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-103",
@@ -1336,7 +2020,13 @@
     "notes": "",
     "link": "https://qaddumi.org/en/masters-scholarship-in-uk-2025/",
     "source": "Updated Scholarships",
-    "row": 105
+    "row": 105,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-104",
@@ -1349,7 +2039,13 @@
     "notes": "Must be between 18-22 years old. Additional information about this scholarship is very unclear.",
     "link": "https://aiu.edu.my/scholarship/",
     "source": "Updated Scholarships",
-    "row": 106
+    "row": 106,
+    "countries": [
+      "Malaysia"
+    ],
+    "levels": [
+      "Not specified"
+    ]
   },
   {
     "id": "s-105",
@@ -1362,7 +2058,13 @@
     "notes": "",
     "link": "https://www.uwcmaastricht.nl/project/a-future-for-palestine/",
     "source": "Updated Scholarships",
-    "row": 107
+    "row": 107,
+    "countries": [
+      "Netherlands"
+    ],
+    "levels": [
+      "Primary / secondary school"
+    ]
   },
   {
     "id": "s-106",
@@ -1375,7 +2077,17 @@
     "notes": "This is a fellowship program that places scholars at risk in universities and other institutions where they can continue their work.",
     "link": "https://www.cara.ngo/what-we-do/caras-fellowship-programme",
     "source": "Updated Scholarships",
-    "row": 108
+    "row": 108,
+    "countries": [
+      "United Kingdom",
+      "Various"
+    ],
+    "levels": [
+      "PhD",
+      "Postdoctoral",
+      "Research fellowship",
+      "Scholars at risk"
+    ]
   },
   {
     "id": "s-107",
@@ -1388,7 +2100,15 @@
     "notes": "It is very unclear if/how Palestinian students can apply to this scholarship, as the scholarship is administered through Taipei Economic and Cultural Offices (TECO) that function similar to embassies worldwide. Palestine does not have its own TECO office.",
     "link": "https://english.moe.gov.tw/cp-24-16833-23C09-1.html",
     "source": "Updated Scholarships",
-    "row": 109
+    "row": 109,
+    "countries": [
+      "Taiwan"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-108",
@@ -1401,7 +2121,13 @@
     "notes": "Al Qasimia University",
     "link": "https://www.alqasimia.ac.ae/en/AdmissionRegistration/Pages/AdmissionRequirements.aspx",
     "source": "Updated Scholarships",
-    "row": 110
+    "row": 110,
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-109",
@@ -1414,7 +2140,13 @@
     "notes": "For additional information about the programs offered, please contact:\n\nAcademic Director of Qatar Scholarships\nqatarscholarships@qatarfund.org.qa\n\nMost programs are taught in Arabic",
     "link": "https://lu.edu.qa/international-students-2/?lang=en",
     "source": "Updated Scholarships",
-    "row": 111
+    "row": 111,
+    "countries": [
+      "Qatar"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-110",
@@ -1427,7 +2159,14 @@
     "notes": "Exact amount varies based on program. ",
     "link": "https://www.kfu.edu.sa/en/Deans/HigherStudies/Pages/Non-Saudi-Scholarship.aspx",
     "source": "Updated Scholarships",
-    "row": 112
+    "row": 112,
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-111",
@@ -1440,7 +2179,18 @@
     "notes": "application process is unclear. There is a contact form for interested applicants, but this is not the application itself. https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ka_m08nLC5FtTGbPo_ZZ49UNjRWTFBMRTc0Mk1OQlE4VTY1SjlCU1I1TyQlQCN0PWcu ",
     "link": "https://www.mcgill.ca/provost/initiatives/mcgill-students-and-scholars-risk-fund",
     "source": "Updated Scholarships",
-    "row": 113
+    "row": 113,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD",
+      "Postdoctoral",
+      "Research fellowship",
+      "Scholars at risk"
+    ]
   },
   {
     "id": "s-112",
@@ -1453,7 +2203,13 @@
     "notes": "\"The president has created two doctoral/post-doctoral Fellowships at CAPRISA in Durban South Africa for Palestinian scientists. Our focus is primarily infectious diseases.  For those interested contact\nQuarraisha.AbdoolKarim@caprisa.org\"",
     "link": "https://www.linkedin.com/posts/rana-dajani_the-president-has-created-two-doctoralpost-doctoral-activity-7252590887816339456-tCTC/?utm_source=share&utm_medium=member_ios",
     "source": "Updated Scholarships",
-    "row": 114
+    "row": 114,
+    "countries": [
+      "South Africa"
+    ],
+    "levels": [
+      "Postdoctoral"
+    ]
   },
   {
     "id": "s-113",
@@ -1466,7 +2222,13 @@
     "notes": "You must be a doctor and proficient in Portuguese. Mais Médicos para o Brasil offers opportunities for further education and training. A doctor participating in the program will be able to carry out a Specialization and a Master’s degree in up to four years. Physicians will also receive benefits that are proportional to the grant’s monthly value to work in city outskirts and remote regions of Brazil.",
     "link": "https://www.gov.br/planalto/en/latest-news/2023/03/brazil-announces-its-new-mais-medicos-para-o-brazil-program",
     "source": "Updated Scholarships",
-    "row": 115
+    "row": 115,
+    "countries": [
+      "Brazil"
+    ],
+    "levels": [
+      "Exchange programme"
+    ]
   },
   {
     "id": "s-114",
@@ -1479,7 +2241,14 @@
     "notes": "King Abdullah University of\nScience and Technology.\n\nThere is no separate application for the KAUST Fellowship. All admitted students automatically receive the KAUST Fellowship, except those funded through specific partnership or externally sponsored programs. If you are admitted, the details of the KAUST Fellowship will be outlined in your offer letter.",
     "link": "https://admissions.kaust.edu.sa/how-to-apply/admission-timelines",
     "source": "Updated Scholarships",
-    "row": 116
+    "row": 116,
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-115",
@@ -1492,7 +2261,14 @@
     "notes": "For Master students and doctoral candidates from IIT Madras and RWTH Aachen University. Purpose of fellowship is provide funding for Master's or doctoral thesis research.\n\nMaster's students awarded 900 euros per month for up to six months. PhD students awarded 1,250 euros per month for three to six months.",
     "link": "https://www.rwth-aachen.de/go/id/lykwb?lidx=1#aaaaaaaaaalykzd",
     "source": "Updated Scholarships",
-    "row": 117
+    "row": 117,
+    "countries": [
+      "Germany",
+      "India"
+    ],
+    "levels": [
+      "Research fellowship"
+    ]
   },
   {
     "id": "s-116",
@@ -1505,7 +2281,16 @@
     "notes": "Applicants must be of Catholic denomination (or generally belong to a Christian denomination, especially for applicants from the Near and Middle East). Applicants of another religion can be funded if they are proposed by Catholic partners in view of a documentable willingness to engage in interreligious dialogue.\n\nApplicants must also have German language skills prior to entry (KAAD can provide for a German language course of max. 6 months in Germany).",
     "link": "https://www.kaad.de/en/stipendien",
     "source": "Updated Scholarships",
-    "row": 118
+    "row": 118,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD",
+      "Postdoctoral",
+      "Research fellowship"
+    ]
   },
   {
     "id": "s-117",
@@ -1518,7 +2303,14 @@
     "notes": "Scholarship applications can be made exclusively through the Catholic University Chaplaincies (KHG or KSG) at your university location.\n\nIt is not possible to apply directly to KAAD Scholarship Programme 2. \n\nApplicants must already be studying in Germany and have at least 10 months of study remaining. They must also be of Catholic denomination (or belong to a Christian denomination, which applies especially for students from the Near and Middle East). Applicants from another religion can be supported if they are proposed by Catholic partners in view of a documentable willingness to engage in interreligious dialogue.\n\nApplicants must have knowledge of the German language at least at a communication level.",
     "link": "https://www.kaad.de/en/stipendien/stipendienprogramm-2",
     "source": "Updated Scholarships",
-    "row": 119
+    "row": 119,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-118",
@@ -1531,7 +2323,13 @@
     "notes": "Western University in Canada. For scholarship consideration, you must have received an admission offer to an undergraduate program at Western’s main campus, and intend to register as full time student.\n\n25,000 CAD / year for up to 4 years.\n\nIf you apply to Western and your English language proficiency test scores are close but don't quite meet our requirements, we could offer you a spot in the English Boost Program. We only offer this if you meet all other admission requirements. You are automatically considered, there is no extra application. ",
     "link": "https://registrar.uwo.ca/student_finances/scholarships_awards/admission/western_scholarships_for_globally_displaced_students.html",
     "source": "Updated Scholarships",
-    "row": 120
+    "row": 120,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "s-119",
@@ -1544,7 +2342,15 @@
     "notes": "University of Bristol.\n\nThink Big undergraduate scholarships are valued at £6,500 and £13,000 for each year of study.\n\nThink Big postgraduate scholarships are valued at £6,500, £13,000 and £26,000 for each year of study.\n\nThe University of Bristol has many degree programs across several disciplines, including for instance a PhD program in cybersecurity. https://www.bristol.ac.uk/cdt/cyber-security/how-to-apply/ \n\nOther programs are here https://www.bristol.ac.uk/study/postgraduate/ and here https://www.bristol.ac.uk/study/undergraduate/ ",
     "link": "https://www.bristol.ac.uk/international/fees-finance/scholarships/",
     "source": "Updated Scholarships",
-    "row": 121
+    "row": 121,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-120",
@@ -1557,7 +2363,14 @@
     "notes": "Preference for vulnerable and displaced applicants\nBachelor's candidates (≤35), Advanced Master's (≤45)",
     "link": "https://www.vliruos.be/get-funded/study-scholarships",
     "source": "Updated Scholarships",
-    "row": 122
+    "row": 122,
+    "countries": [
+      "Belgium"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-121",
@@ -1570,7 +2383,14 @@
     "notes": "Funds postgraduate courses in Germany on this list: https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_-_deadlines_2025_26.pdf \n\nValue: Depending on academic level, monthly payments of 992 euros for graduates or 1,300 euros for doctoral candidates\nPayments towards health, accident and personal liability insurance cover\nTravel allowance, unless these expenses are covered by the home country or another source of funding\nUnder certain circumstances, scholarship holders may receive the following additional benefits:\nMonthly rent subsidy\nMonthly allowance for accompanying members of family",
     "link": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_-_deadlines_2025_26.pdf",
     "source": "Updated Scholarships",
-    "row": 123
+    "row": 123,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-122",
@@ -1583,7 +2403,14 @@
     "notes": "Specifically for Palestinians interested in Dutch academia",
     "link": "https://www.dutchscholarsforpalestine.nl/scholarships-and-fellowships-palestine",
     "source": "Updated Scholarships",
-    "row": 124
+    "row": 124,
+    "countries": [
+      "Netherlands"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-123",
@@ -1596,7 +2423,14 @@
     "notes": "Targeting exceptional students; scholarships for merit",
     "link": "https://www.ejust.edu.eg/ug-scholarships",
     "source": "Updated Scholarships",
-    "row": 125
+    "row": 125,
+    "countries": [
+      "Egypt"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-124",
@@ -1609,7 +2443,16 @@
     "notes": "The Bseisu Foundation offers different scholarships and funding opportunities across the UK, US, Middle East and Malaysia.",
     "link": "https://www.bseisufoundation.org/other-funding-opportunities",
     "source": "Updated Scholarships",
-    "row": 126
+    "row": 126,
+    "countries": [
+      "United Kingdom",
+      "United States",
+      "Palestine",
+      "Malaysia"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-125",
@@ -1622,7 +2465,13 @@
     "notes": "Erasmus Mundus Joint Masters are prestigious international masters, jointly designed and delivered by a group of higher education institutions. They involve at least 3 institutions from at least 3 different countries, and multiple associated partners from the academic and non-academic world. Typically, they include periods of study, research, traineeship, thesis preparation and defence. \n\nYou can view the website to find programs that suit your interests. \n\nSome programs require language proficiency in languages other than English. Check each individual program for exact details on scholarship coverage.",
     "link": "",
     "source": "Updated Scholarships",
-    "row": 127
+    "row": 127,
+    "countries": [
+      "Europe"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-126",
@@ -1635,7 +2484,13 @@
     "notes": "",
     "link": "https://www.uwl.ac.uk/research/phd-opportunities",
     "source": "Updated Scholarships",
-    "row": 128
+    "row": 128,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "PhD"
+    ]
   },
   {
     "id": "s-127",
@@ -1648,7 +2503,14 @@
     "notes": "University of Melbourne",
     "link": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
     "source": "Updated Scholarships",
-    "row": 129
+    "row": 129,
+    "countries": [
+      "Australia"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-128",
@@ -1661,7 +2523,14 @@
     "notes": "Stipend of 20000 AED if you are a PhD student",
     "link": "https://www.ku.ac.ae/scholarships-postgraduate#international-students",
     "source": "Updated Scholarships",
-    "row": 130
+    "row": 130,
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "levels": [
+      "Master’s",
+      "PhD"
+    ]
   },
   {
     "id": "s-129",
@@ -1674,7 +2543,13 @@
     "notes": "Palestine Scholarships are awarded to students involved in peaceful, non-violent movements for Palestinian freedom and liberation, with a priority to those students who have faced violence or suspension as a result of their activism",
     "link": "https://www.sijal.org/palestine-scholarship",
     "source": "Updated Scholarships",
-    "row": 131
+    "row": 131,
+    "countries": [
+      "Jordan"
+    ],
+    "levels": [
+      "Certificate programme"
+    ]
   },
   {
     "id": "s-130",
@@ -1687,7 +2562,14 @@
     "notes": "You must have been registered in a university in Gaza on October 6, 2023, and you must currently reside in Egypt.",
     "link": "https://docs.google.com/forms/d/e/1FAIpQLSdru8l9indOt-Wbo1H_KHZNSFbT1QPriswMZp4SYrKqP2sr-A/viewform",
     "source": "Updated Scholarships",
-    "row": 132
+    "row": 132,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-131",
@@ -1700,7 +2582,13 @@
     "notes": "",
     "link": "",
     "source": "Updated Scholarships",
-    "row": 133
+    "row": 133,
+    "countries": [
+      "Not specified"
+    ],
+    "levels": [
+      "Online"
+    ]
   },
   {
     "id": "s-132",
@@ -1713,7 +2601,13 @@
     "notes": "McGill University. In addition to Master's degrees, the following \"second-entry professional undergraduate degrees\" are eligible: BCL/JD (Law), DMD (Dentistry), MDCM (Medicine)",
     "link": "https://mccallmacbainscholars.org/",
     "source": "Updated Scholarships",
-    "row": 134
+    "row": 134,
+    "countries": [
+      "Canada"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-133",
@@ -1726,7 +2620,13 @@
     "notes": "Students from Lebanon, Jordan, Palestine, Syria; strong academic merit, financial need",
     "link": "https://www.ucl.ac.uk/scholarships/bseisu-ucl-scholarship",
     "source": "Updated Scholarships",
-    "row": 135
+    "row": 135,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-134",
@@ -1739,7 +2639,13 @@
     "notes": "Open to citizens of developing countries with work experience and strong academic merit",
     "link": "https://mtcp.kln.gov.my/scholarship",
     "source": "Updated Scholarships",
-    "row": 136
+    "row": 136,
+    "countries": [
+      "Malaysia"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-135",
@@ -1752,7 +2658,13 @@
     "notes": "Note: deadlines for language course in early May. University deadlines differ",
     "link": "https://www.crui.it/home-ri/iupals-italian-universities-for-palestinian-students.html",
     "source": "Updated Scholarships",
-    "row": 137
+    "row": 137,
+    "countries": [
+      "Italy"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-136",
@@ -1765,7 +2677,13 @@
     "notes": "Note: call opened 13/04",
     "link": "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme/about-the-programme",
     "source": "Updated Scholarships",
-    "row": 138
+    "row": 138,
+    "countries": [
+      "Poland"
+    ],
+    "levels": [
+      "Master’s"
+    ]
   },
   {
     "id": "s-137",
@@ -1778,7 +2696,14 @@
     "notes": "International students from developing countries, incl. those affected by conflict.\n humanitarian intent evident",
     "link": "https://uns.ac.id/en/admission/uns-scholarship/",
     "source": "Updated Scholarships",
-    "row": 983
+    "row": 983,
+    "countries": [
+      "Indonesia"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-138",
@@ -1791,7 +2716,14 @@
     "notes": "Citizens of ARES partner developing countries with work/academic merit\nconflict & humanitarian sensitivity noted",
     "link": "https://www.scholarshipregion.com/ares-scholarship-belgium/",
     "source": "Updated Scholarships",
-    "row": 984
+    "row": 984,
+    "countries": [
+      "Belgium"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-139",
@@ -1804,7 +2736,13 @@
     "notes": "Approx. £18,000/year\nextentuating circumstances considered on a case by case",
     "link": "https://www.bcu.ac.uk/research/our-phds/phd-opportunities",
     "source": "Updated Scholarships",
-    "row": 985
+    "row": 985,
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "PhD"
+    ]
   },
   {
     "id": "s-140",
@@ -1817,7 +2755,14 @@
     "notes": "Advertised by Palestine Minisytry of education",
     "link": "https://int.unyt.edu.al/how-to-apply/",
     "source": "Updated Scholarships",
-    "row": 986
+    "row": 986,
+    "countries": [
+      "Albania"
+    ],
+    "levels": [
+      "Bachelor’s",
+      "Master’s"
+    ]
   },
   {
     "id": "s-141",
@@ -1830,7 +2775,13 @@
     "notes": "€1,450/month + family allowance, research grant, language course fees; 3 years funding\n\n (TOEFL ≥ 80, IELTS ≥ 6.0, < 2 yrs old)\nCitizens/residents of Arab countries incl. Palestine; doctoral proposal aligned with Humboldt faculty research areas",
     "link": "",
     "source": "Updated Scholarships",
-    "row": 987
+    "row": 987,
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "PhD"
+    ]
   },
   {
     "id": "b-1",
@@ -1843,7 +2794,13 @@
     "notes": "This college covers most or all tuition fees for all students, including international students",
     "link": "https://admissions.berea.edu/apply/",
     "source": "Bachelor’s guidance",
-    "row": 6
+    "row": 6,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "b-2",
@@ -1856,7 +2813,13 @@
     "notes": "Scholarships will automatically be considered during the application process. Free application. Must fill out CSS profile for need-base aid.",
     "link": "https://www.clarku.edu/undergraduate-admissions/apply/",
     "source": "Bachelor’s guidance",
-    "row": 7
+    "row": 7,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "b-3",
@@ -1869,7 +2832,13 @@
     "notes": "Scholarships will automatically be considered during the application process. Free applications available, may need to email the institution to waive fee. Must fill out CSS profile for need-based aid.",
     "link": "",
     "source": "Bachelor’s guidance",
-    "row": 8
+    "row": 8,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "b-4",
@@ -1882,7 +2851,13 @@
     "notes": "Scholarships will automatically be considered during the application process. Free application. Must fill out CSS profile for need-base aid.",
     "link": "https://www.iwu.edu/international/",
     "source": "Bachelor’s guidance",
-    "row": 9
+    "row": 9,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "b-5",
@@ -1895,7 +2870,13 @@
     "notes": "Known to be generous with financial aid and scholarships. $65 application fee, need to email admissions for a fee waiver.",
     "link": "",
     "source": "Bachelor’s guidance",
-    "row": 10
+    "row": 10,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "b-6",
@@ -1908,7 +2889,13 @@
     "notes": "Known to be generous with financial aid and scholarships. Free application. Must fill out CSS profile for need-based aid.",
     "link": "",
     "source": "Bachelor’s guidance",
-    "row": 11
+    "row": 11,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   },
   {
     "id": "b-7",
@@ -1921,6 +2908,12 @@
     "notes": "Scholarships will automatically be considered during the application process. Free application",
     "link": "https://www.whittier.edu/admission/applying/international",
     "source": "Bachelor’s guidance",
-    "row": 12
+    "row": 12,
+    "countries": [
+      "United States"
+    ],
+    "levels": [
+      "Bachelor’s"
+    ]
   }
 ]
