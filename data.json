@@ -198,20 +198,19 @@
     "id": "opportunity-11",
     "name": "British Council's HESPAL (Higher Education Scholarships for Palestinians) scheme",
     "degree": "Master's",
-    "deadline": "closed",
+    "deadline": "Closed 27 Feb 2026; monitor for the next cycle",
     "country": "United Kingdom",
-    "coverage": "full tuition, stipend or maintenance (monthly/annually), travel allowance",
-    "language": "IELTS",
-    "notes": "Application cycle for the 2026/2027 academic year is expected to open in November 2025\n\nOther English tests besides IELTS may be accepted. \n\nScholarship administered with select partner universities, including Lancaster (https://www.lancaster.ac.uk/study/fees-and-funding/scholarships-and-bursaries/higher-education-scholarships-for-palestinians/ ) and Sussex (https://archive.sussex.ac.uk/study/scholarships/1611-HESPAL-Higher-Education-Scholarships-Scheme-for-the-Palestinian-Territories )",
+    "coverage": "tuition, 12-month living allowance, arrival and thesis allowances, plus limited additional allowance",
+    "language": "English certificate accepted by the selected UK partner university",
+    "notes": "HESPAL 2026/27 was open exclusively to Palestinians from Gaza, including displaced Gazans, applying for a Master's. Applicants had to be employed by or part of the academic staff of a Gazan university and nominated by that university. Fifteen UK partner universities offered one-year Master's programmes. The central scheme says an additional allowance may contribute to visa, health-insurance or travel costs, but all other and unforeseen costs remain the scholar's responsibility. No evacuation or safe-passage guarantee is stated.\n\nValidation status (30-Jul-2026): 2026/27 applications closed\nTravel/evacuation check: Limited travel contribution possible; no evacuation guarantee",
     "link": "https://britishcouncil.ps/en/study-uk/scholarships/hespal",
-    "source": "Updated Scholarships",
+    "source": "Official page revalidated 30 Jul 2026",
     "row": 13,
     "countries": [
       "United Kingdom"
     ],
     "levels": [
-      "Master's",
-      "PhD"
+      "Master's"
     ]
   },
   {
@@ -567,13 +566,13 @@
     "id": "opportunity-30",
     "name": "Scholarships for Palestine – University of Sussex",
     "degree": "Master's",
-    "deadline": "closed",
+    "deadline": "Closed 1 Jun 2026; monitor for the next cycle",
     "country": "United Kingdom",
-    "coverage": "full tuition, stipend or maintenance (monthly/annually)",
+    "coverage": "full overseas tuition fee waiver plus £17,460 living costs or on-campus accommodation; Duolingo test cost if required",
     "language": "Not specified",
-    "notes": "Priority for those from Gaza or refugee camps; offer required\nMust have offer to study at Sussex (starting Sept 2025); open to holders of Palestinian ID/travel docs; priority given to applicants from Gaza, refugee camps, or those displaced after October 2023; not open to those with a Master’s degree or previous international study experience.",
-    "link": "https://sussex.ac.uk/study/fees-funding/masters-scholarships/view/1801-Scholarships-for-Palestine",
-    "source": "Updated Scholarships",
+    "notes": "Two fully funded Master's scholarships for Palestinian applicants starting at Sussex in September 2026, particularly those displaced by the Gaza crisis. Applicants needed Palestinian ID/travel documents and an accepted offer for an eligible Sussex Master's. They had to be ordinarily resident in Gaza or the West Bank, or have been so before October 2023; priority was given to Gaza residents, displaced Palestinians in refugee camps and applicants without a previous Master's or overseas study. Several courses, placements, diplomas and online programmes were excluded. No travel or evacuation support is stated.\n\nValidation status (30-Jul-2026): 2026 applications closed\nTravel/evacuation check: No travel or evacuation support stated",
+    "link": "https://sussex.ac.uk/study/fees-funding/masters-scholarships/view/1946-Scholarships-for-Palestine",
+    "source": "Official page revalidated 30 Jul 2026",
     "row": 32,
     "countries": [
       "United Kingdom"
@@ -1178,13 +1177,13 @@
     "id": "opportunity-61",
     "name": "PSSAR Mentorship Program",
     "degree": "Master's",
-    "deadline": "undetermined (open currently)",
+    "deadline": "Ongoing; apply through the current PSSAR programme",
     "country": "Canada",
-    "coverage": "unclear",
+    "coverage": "graduate matching and support; funding decisions are made by host institutions",
     "language": "unclear",
-    "notes": "The aim of this initiative is to match students wishing to pursue a research degree with supervising professors from Canada.",
-    "link": "https://applicants.pssar.ca",
-    "source": "Updated Scholarships",
+    "notes": "PSSAR's current Graduate Matching Program connects high-achieving Palestinian graduate students with professors and fully funded research, Master's and PhD opportunities, primarily in Canada. PSSAR may assist with application and visa fees, housing referrals and other barriers, but admission and funding decisions are made by host institutions. The legacy Waterloo JotForm is unavailable; applicants should use the current PSSAR site. PSSAR is advocating for Gazan students facing Canadian visa delays, and placement does not guarantee evacuation, a study permit or safe passage.\n\nValidation status (30-Jul-2026): Current support programme\nTravel/evacuation check: Advocacy and barrier support; no guaranteed evacuation",
+    "link": "https://pssar.ca",
+    "source": "Official page revalidated 30 Jul 2026",
     "row": 64,
     "countries": [
       "Canada"
@@ -1654,13 +1653,13 @@
     "id": "opportunity-85",
     "name": "France Excellence Scholarship – Students from Gaza",
     "degree": "Bachelor's",
-    "deadline": "Not specified",
+    "deadline": "Closed; the located official call was for 2024/25",
     "country": "France",
-    "coverage": "stipend or maintenance (monthly/annually), travel allowance",
+    "coverage": "Refer to any future official France Excellence call",
     "language": "Not specified",
-    "notes": "For Palestinian students from Gaza in Egypt/France",
-    "link": "https://ifporient.org/scholarship-students-from-gaza-2024-2025",
-    "source": "Updated Scholarships",
+    "notes": "The legacy Campus France call located during revalidation was published in July 2024 for the 2024/25 cycle. No current 2026 application call was located. Retained as a historical/monitoring entry because a future cycle may be announced, but it must not be treated as currently open. No current evacuation or travel arrangement is confirmed.\n\nValidation status (30-Jul-2026): Historical call; no current cycle located\nTravel/evacuation check: Not confirmed",
+    "link": "https://campusfrance.org/en/actu/france-excellence-scholarship-students-gaza",
+    "source": "Official page revalidated 30 Jul 2026",
     "row": 89,
     "countries": [
       "France"
@@ -3071,6 +3070,148 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "name": "Lancaster University HESPAL Scholarship",
+    "degree": "Master's",
+    "deadline": "Closed 27 Feb 2026; monitor HESPAL for the next cycle",
+    "country": "United Kingdom",
+    "coverage": "tuition fees, monthly living allowance, arrival and thesis allowances; limited additional costs",
+    "language": "English certificate accepted by Lancaster University",
+    "notes": "Lancaster University was an official partner for the HESPAL 2026 cycle, offering one-year Master's programmes in all subjects. The 2026 cycle was restricted to Palestinians from Gaza, including displaced Gazans, who were employed by or part of the academic staff of a Gazan university and nominated by that university. Lancaster states that travel, visa and IELTS costs are not covered by its award, while the central HESPAL scheme describes a limited additional allowance that may contribute towards visa, health insurance or travel. Neither source promises evacuation or safe passage.\n\nValidation status (30-Jul-2026): Valid recurring scheme; 2026/27 applications closed\nTravel/evacuation check: No guaranteed evacuation or safe passage",
+    "link": "https://lancaster.ac.uk/study/fees-and-funding/scholarships-and-bursaries/higher-education-scholarships-for-palestinians",
+    "source": "Legacy tab — officially revalidated 30 Jul 2026",
+    "row": 22,
+    "id": "opportunity-157",
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master's"
+    ]
+  },
+  {
+    "name": "University of Sussex HESPAL Scholarship",
+    "degree": "Master's",
+    "deadline": "Closed 27 Feb 2026; monitor HESPAL for the next cycle",
+    "country": "United Kingdom",
+    "coverage": "full tuition fee waiver, monthly living allowance, arrival and thesis allowances",
+    "language": "English certificate accepted by the University of Sussex",
+    "notes": "The University of Sussex was listed by the British Council as a HESPAL partner for one-year Master's programmes in the 2026 cycle. The central 2026 eligibility rules required applicants to be Palestinian from Gaza, including displaced Gazans, to be academic staff at a Gazan university and to be nominated by that university. This is separate from Sussex's own Scholarships for Palestine award. The cycle is closed and no evacuation or safe-passage guarantee is stated.\n\nValidation status (30-Jul-2026): Valid recurring scheme; 2026/27 applications closed\nTravel/evacuation check: No guaranteed evacuation or safe passage",
+    "link": "https://britishcouncil.ps/en/study-uk/scholarships/hespal/uk-universities",
+    "source": "Legacy tab — officially revalidated 30 Jul 2026",
+    "row": 23,
+    "id": "opportunity-158",
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master's"
+    ]
+  },
+  {
+    "name": "Cyber Security CDT — University of Bristol and University of Bath",
+    "degree": "PhD",
+    "deadline": "Closed for 2026; applications expected to reopen October 2026 for September 2027",
+    "country": "United Kingdom",
+    "coverage": "competitive four-year studentship: UK-rate tuition, £25,112 annual stipend, research equipment and travel allowance",
+    "language": "University of Bristol English Profile B where required",
+    "notes": "Four-year interdisciplinary Cyber Security (Cyber Secure Everywhere) doctoral programme involving the Universities of Bristol and Bath. Applicants need at least an upper-second-class degree or international equivalent in a relevant discipline. International candidates may compete for a limited number of international-funded places (up to 30% of a cohort); funding is not guaranteed and is highly competitive. The programme says applications will reopen in October for September 2027. Research travel support is not evacuation support.\n\nValidation status (30-Jul-2026): Valid programme; next application cycle upcoming\nTravel/evacuation check: Research travel only; no evacuation or safe-passage guarantee",
+    "link": "https://bristol.ac.uk/cdt/cyber-security/how-to-apply",
+    "source": "Legacy tab — officially revalidated 30 Jul 2026",
+    "row": 46,
+    "id": "opportunity-159",
+    "countries": [
+      "United Kingdom"
+    ],
+    "levels": [
+      "PhD"
+    ]
+  },
+  {
+    "name": "DAAD Helmut-Schmidt Programme",
+    "degree": "Master's",
+    "deadline": "31 Jul 2026 for the 2027 intake",
+    "country": "Germany",
+    "coverage": "full scholarship with monthly allowance, health insurance, travel allowance and German-language preparation where needed",
+    "language": "Course-specific English or German requirements",
+    "notes": "DAAD Master's scholarships in public policy, good governance, public administration, development, peace and conflict studies, law, economics and related fields. The DAAD Information Centre in East Jerusalem actively advertised the 2027 call to Palestinian applicants. Applicants need a first university degree and must satisfy the selected course's academic and language requirements. Travel funding does not guarantee exit from Gaza, evacuation, a visa or safe passage.\n\nValidation status (30-Jul-2026): Open; deadline 31-Jul-2026\nTravel/evacuation check: Travel allowance included; no evacuation guarantee",
+    "link": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database",
+    "source": "Legacy tab — officially revalidated 30 Jul 2026",
+    "row": 69,
+    "id": "opportunity-160",
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Master's"
+    ]
+  },
+  {
+    "name": "TUM Scholarship for International Students",
+    "degree": "Bachelor's",
+    "deadline": "1–15 Oct 2026 for winter semester 2026/27",
+    "country": "Germany",
+    "coverage": "€500–€1,800 one-time financial aid per semester; applicants may reapply",
+    "language": "Programme-specific; application documents in English or German",
+    "notes": "Technical University of Munich support for international students who are already enrolled at TUM and are in financial need with good academic results. Eligibility starts from the third Bachelor's semester or the second Master's semester, except TUM Bachelor's graduates may apply in their first Master's semester. This is not an entry scholarship, does not cover full tuition or living costs, and provides no travel, visa, evacuation or safe-passage support.\n\nValidation status (30-Jul-2026): Current; next stated application window 1–15 Oct 2026\nTravel/evacuation check: No travel or evacuation support",
+    "link": "https://tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/scholarship-for-international-students-of-tum",
+    "source": "Legacy tab — officially revalidated 30 Jul 2026",
+    "row": 73,
+    "id": "opportunity-161",
+    "countries": [
+      "Germany"
+    ],
+    "levels": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "name": "EPOG-JM Erasmus Mundus Joint Master",
+    "degree": "Master's",
+    "deadline": "Closed 29 Jan 2026; next call normally opens in October",
+    "country": "Europe",
+    "coverage": "tuition and insurance plus €1,400 per month for Erasmus Mundus scholarship holders",
+    "language": "English C1; accepted tests include IELTS 7.0 and TOEFL iBT 95",
+    "notes": "Two-year Economic Policies for the Global Bifurcation joint Master's covering digital, socioeconomic and ecological transitions, with compulsory physical mobility across partner universities. Palestine is explicitly listed in the South-Mediterranean targeted-scholarship region. Applicants generally need a Bachelor's degree with economics and statistics/econometrics credits. The 2026 scholarship call is closed; the programme indicates calls normally open in October and close around late January. Mobility funding and admission do not guarantee evacuation, visas or safe passage.\n\nValidation status (30-Jul-2026): Valid recurring Erasmus Mundus programme; current call closed\nTravel/evacuation check: Compulsory mobility; no evacuation guarantee",
+    "link": "https://epog.eu/admission-and-scholarships/scholarships",
+    "source": "Legacy tab — officially revalidated 30 Jul 2026",
+    "row": 81,
+    "id": "opportunity-162",
+    "countries": [
+      "Europe",
+      "Brazil",
+      "South Africa"
+    ],
+    "levels": [
+      "Master's"
+    ]
+  },
+  {
+    "name": "Europubhealth+ Erasmus Mundus Joint Master",
+    "degree": "Master's",
+    "deadline": "Closed 8 Jan 2026 for scholarships; monitor for the next intake",
+    "country": "Belgium",
+    "coverage": "full participation fees, health and accident insurance and up to €1,400 per month",
+    "language": "English plus pathway-specific French or Spanish where applicable",
+    "notes": "Two-year multidisciplinary European public-health Master's with seven specialisations and study at partner universities in Ireland, France, Spain, Belgium, the Netherlands, Poland and the United Kingdom. Erasmus Mundus scholarships are open to top-ranked students worldwide, so Palestinian applicants may apply if they meet admission and language requirements. The 2026 scholarship deadline has passed; the programme says applicants can prepare for the next intake. Mobility funding does not guarantee evacuation, visas or safe passage.\n\nValidation status (30-Jul-2026): Valid recurring Erasmus Mundus programme; current call closed\nTravel/evacuation check: International mobility required; no evacuation guarantee",
+    "link": "https://europubhealth.org/application-procedure",
+    "source": "Legacy tab — officially revalidated 30 Jul 2026",
+    "row": 82,
+    "id": "opportunity-163",
+    "countries": [
+      "Belgium",
+      "France",
+      "Ireland",
+      "Netherlands",
+      "Poland",
+      "Spain",
+      "United Kingdom"
+    ],
+    "levels": [
+      "Master's"
     ]
   }
 ]

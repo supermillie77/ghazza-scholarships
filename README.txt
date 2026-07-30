@@ -12,7 +12,11 @@ DATABASE UPDATE
 - Validated spreadsheet rows checked: 13
 - New unique opportunities imported: 13
 - Spreadsheet rows skipped as existing duplicates: 0
-- Final unique opportunities: 156
+- Legacy-only rows reviewed: 12
+- Still-valid legacy opportunities added: 7
+- Existing records refreshed from legacy validation: 4
+- Legacy rows already represented, expired or unavailable: 5
+- Final unique opportunities: 163
 
 FILTER CORRECTIONS
 - Countries are stored as separate values, so a record covering Germany and
@@ -23,6 +27,27 @@ FILTER CORRECTIONS
   Bachelor's, Master's and PhD study appears under each individual filter.
 - Correct study-level labels:
   School, Certificate / Short Course, Bachelor's, Master's, Postgraduate Diploma, PhD, Postdoctoral, Research Fellowship, Exchange Programme, Online Course, Not specified
+
+LEGACY VALIDATION — 30 JULY 2026
+Added as distinct, still-valid or recurring opportunities:
+- Lancaster University HESPAL Scholarship
+- University of Sussex HESPAL Scholarship
+- Cyber Security CDT — University of Bristol and University of Bath
+- DAAD Helmut-Schmidt Programme
+- TUM Scholarship for International Students
+- EPOG-JM Erasmus Mundus Joint Master
+- Europubhealth+ Erasmus Mundus Joint Master
+
+Reviewed without creating duplicates:
+- Oxford Brookes Gaza Scholarship was already present in the validated additions.
+- France Excellence for Gaza was already present; its status and official link
+  were updated because no current 2026 call was located.
+- The unavailable Waterloo/PSSAR JotForm was replaced by the current PSSAR
+  Graduate Matching Programme information.
+- The separate University of Waterloo Global Student Relief Initiative page
+  could not be confirmed as a current opportunity.
+- The old QRDI link now redirects to a general innovation portal and no longer
+  identifies a scholarship or course.
 
 UPLOAD TO GITHUB
 1. Open https://github.com/supermillie77/ghazza-scholarships
