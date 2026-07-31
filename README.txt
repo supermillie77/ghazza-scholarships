@@ -67,3 +67,15 @@ INTERFACE UPDATE — 31 JULY 2026
 - Original spreadsheet records (143 cards) have a gold leading edge.
 - The Arabic toggle now switches page direction, interface labels, filters, source names, countries, study levels and common scholarship metadata into Arabic.
 - Official institution and scholarship names remain unchanged where they function as proper names.
+
+
+Arabic card translation fix:
+- Every card now contains dedicated Arabic fields for title, funding, deadline, language and description.
+- Arabic mode no longer relies on partial on-screen word substitution.
+- The English source text remains in data.json alongside the Arabic version.
+
+
+Arabic card translation fix:
+- Every card now contains dedicated Arabic fields for title, funding, deadline, language and description.
+- Arabic mode no longer relies on partial on-screen word substitution.
+- The English source text remains in data.json alongside the Arabic version.
