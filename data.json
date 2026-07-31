@@ -16,7 +16,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-2",
@@ -35,7 +36,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-3",
@@ -54,7 +56,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-4",
@@ -74,7 +77,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-5",
@@ -95,7 +99,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-6",
@@ -114,7 +119,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-7",
@@ -133,7 +139,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-8",
@@ -152,7 +159,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-9",
@@ -171,7 +179,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-10",
@@ -192,7 +201,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-11",
@@ -211,7 +221,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-12",
@@ -230,7 +241,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-13",
@@ -249,7 +261,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-14",
@@ -268,7 +281,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-15",
@@ -287,7 +301,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-16",
@@ -307,7 +322,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-17",
@@ -326,7 +342,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-18",
@@ -345,7 +362,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-19",
@@ -364,7 +382,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-20",
@@ -383,7 +402,8 @@
     ],
     "levels": [
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-21",
@@ -405,7 +425,8 @@
       "Master's",
       "PhD",
       "Postdoctoral"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-22",
@@ -424,7 +445,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-23",
@@ -443,7 +465,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-24",
@@ -462,7 +485,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-25",
@@ -481,7 +505,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-26",
@@ -500,7 +525,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-27",
@@ -520,7 +546,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-28",
@@ -541,7 +568,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-29",
@@ -560,7 +588,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-30",
@@ -579,7 +608,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-31",
@@ -598,7 +628,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-32",
@@ -617,7 +648,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-33",
@@ -636,7 +668,8 @@
     ],
     "levels": [
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-34",
@@ -656,7 +689,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-35",
@@ -677,7 +711,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-36",
@@ -696,7 +731,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-37",
@@ -717,7 +753,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-38",
@@ -737,7 +774,8 @@
     "levels": [
       "PhD",
       "Postdoctoral"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-39",
@@ -756,7 +794,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-40",
@@ -776,7 +815,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-41",
@@ -796,7 +836,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-42",
@@ -816,7 +857,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-43",
@@ -835,7 +877,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-44",
@@ -856,7 +899,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-45",
@@ -875,7 +919,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-46",
@@ -894,7 +939,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-47",
@@ -913,7 +959,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-48",
@@ -932,7 +979,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-49",
@@ -952,7 +1000,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-50",
@@ -971,7 +1020,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-51",
@@ -991,7 +1041,8 @@
     "levels": [
       "Postdoctoral",
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-52",
@@ -1010,7 +1061,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-53",
@@ -1030,7 +1082,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-54",
@@ -1050,7 +1103,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-55",
@@ -1074,7 +1128,8 @@
       "PhD",
       "Postdoctoral",
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-56",
@@ -1094,7 +1149,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-57",
@@ -1113,7 +1169,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-58",
@@ -1133,7 +1190,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-59",
@@ -1152,7 +1210,8 @@
     ],
     "levels": [
       "Certificate / Short Course"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-60",
@@ -1171,7 +1230,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-61",
@@ -1191,7 +1251,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-62",
@@ -1211,7 +1272,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-63",
@@ -1230,7 +1292,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-64",
@@ -1251,7 +1314,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-65",
@@ -1270,7 +1334,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-66",
@@ -1289,7 +1354,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-67",
@@ -1308,7 +1374,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-68",
@@ -1328,7 +1395,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-69",
@@ -1349,7 +1417,8 @@
       "PhD",
       "Postdoctoral",
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-70",
@@ -1369,7 +1438,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-71",
@@ -1388,7 +1458,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-72",
@@ -1410,7 +1481,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-73",
@@ -1429,7 +1501,8 @@
     ],
     "levels": [
       "Certificate / Short Course"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-74",
@@ -1449,7 +1522,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-75",
@@ -1469,7 +1543,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-76",
@@ -1488,7 +1563,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-77",
@@ -1507,7 +1583,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-78",
@@ -1528,7 +1605,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-79",
@@ -1548,7 +1626,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-80",
@@ -1568,7 +1647,8 @@
     "levels": [
       "Certificate / Short Course",
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-81",
@@ -1587,7 +1667,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-82",
@@ -1607,7 +1688,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-83",
@@ -1626,7 +1708,8 @@
     ],
     "levels": [
       "Not specified"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-84",
@@ -1647,7 +1730,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-85",
@@ -1667,7 +1751,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-86",
@@ -1687,7 +1772,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-87",
@@ -1707,7 +1793,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-88",
@@ -1728,7 +1815,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-89",
@@ -1749,7 +1837,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-90",
@@ -1768,7 +1857,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-91",
@@ -1788,7 +1878,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-92",
@@ -1807,7 +1898,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-93",
@@ -1827,7 +1919,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-94",
@@ -1846,7 +1939,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-95",
@@ -1867,7 +1961,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-96",
@@ -1887,7 +1982,8 @@
     "levels": [
       "Postdoctoral",
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-97",
@@ -1906,7 +2002,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-98",
@@ -1927,7 +2024,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-99",
@@ -1946,7 +2044,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-100",
@@ -1965,7 +2064,8 @@
     ],
     "levels": [
       "Not specified"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-101",
@@ -1984,7 +2084,8 @@
     ],
     "levels": [
       "School"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-102",
@@ -2006,7 +2107,8 @@
       "PhD",
       "Postdoctoral",
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-103",
@@ -2027,7 +2129,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-104",
@@ -2046,7 +2149,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-105",
@@ -2065,7 +2169,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-106",
@@ -2085,7 +2190,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-107",
@@ -2108,7 +2214,8 @@
       "PhD",
       "Postdoctoral",
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-108",
@@ -2127,7 +2234,8 @@
     ],
     "levels": [
       "Postdoctoral"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-109",
@@ -2146,7 +2254,8 @@
     ],
     "levels": [
       "Exchange Programme"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-110",
@@ -2166,7 +2275,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-111",
@@ -2186,7 +2296,8 @@
     ],
     "levels": [
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-112",
@@ -2208,7 +2319,8 @@
       "PhD",
       "Postdoctoral",
       "Research Fellowship"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-113",
@@ -2228,7 +2340,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-114",
@@ -2247,7 +2360,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-115",
@@ -2268,7 +2382,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-116",
@@ -2288,7 +2403,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-117",
@@ -2308,7 +2424,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-118",
@@ -2328,7 +2445,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-119",
@@ -2348,7 +2466,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-120",
@@ -2370,7 +2489,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-121",
@@ -2389,7 +2509,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-122",
@@ -2408,7 +2529,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-123",
@@ -2428,7 +2550,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-124",
@@ -2448,7 +2571,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-125",
@@ -2467,7 +2591,8 @@
     ],
     "levels": [
       "Certificate / Short Course"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-126",
@@ -2487,7 +2612,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-127",
@@ -2506,7 +2632,8 @@
     ],
     "levels": [
       "Online Course"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-128",
@@ -2525,7 +2652,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-129",
@@ -2544,7 +2672,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-130",
@@ -2563,7 +2692,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-131",
@@ -2582,7 +2712,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-132",
@@ -2602,7 +2733,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-133",
@@ -2622,7 +2754,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-134",
@@ -2641,7 +2774,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-135",
@@ -2661,7 +2795,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-136",
@@ -2680,7 +2815,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-137",
@@ -2699,7 +2835,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-138",
@@ -2718,7 +2855,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-139",
@@ -2737,7 +2875,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-140",
@@ -2756,7 +2895,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-141",
@@ -2775,7 +2915,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-142",
@@ -2794,7 +2935,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "id": "opportunity-143",
@@ -2813,7 +2955,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": true
   },
   {
     "name": "University of the People Gaza Scholarship",
@@ -2832,7 +2975,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "Code.X Gaza Summer School 2026",
@@ -2852,7 +2996,8 @@
     "levels": [
       "School",
       "Certificate / Short Course"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "QUT International Talent Scholarship",
@@ -2871,7 +3016,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "University of Alberta Disrupted and Displaced Palestinian Student Tuition Support Program",
@@ -2892,7 +3038,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "LSE Access to Education Graduate Scholarships",
@@ -2911,7 +3058,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "Oxford Brookes Gaza Scholarship",
@@ -2930,7 +3078,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "LUF–Lutfia Rabbani Extra Gaza Scholarship at Leiden University",
@@ -2949,7 +3098,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "University of Strathclyde Humanitarian Scholarship for Displaced Palestinians",
@@ -2969,7 +3119,8 @@
     "levels": [
       "Master's",
       "Postgraduate Diploma"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "UNIMI PATH Scholarships – University of Milan",
@@ -2989,7 +3140,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "AMIDEAST Hope Fund – Supplemental",
@@ -3009,7 +3161,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "AMIDEAST Sousou Graduate Fellows Program",
@@ -3030,7 +3183,8 @@
     "levels": [
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "Scholarships to Return and Rebuild",
@@ -3049,7 +3203,8 @@
     ],
     "levels": [
       "Bachelor's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "Gazan Student Support Network higher-education pathways",
@@ -3070,7 +3225,8 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "Lancaster University HESPAL Scholarship",
@@ -3089,7 +3245,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "University of Sussex HESPAL Scholarship",
@@ -3108,7 +3265,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "Cyber Security CDT — University of Bristol and University of Bath",
@@ -3127,7 +3285,8 @@
     ],
     "levels": [
       "PhD"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "DAAD Helmut-Schmidt Programme",
@@ -3146,7 +3305,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "TUM Scholarship for International Students",
@@ -3166,7 +3326,8 @@
     "levels": [
       "Bachelor's",
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "EPOG-JM Erasmus Mundus Joint Master",
@@ -3187,7 +3348,8 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   },
   {
     "name": "Europubhealth+ Erasmus Mundus Joint Master",
@@ -3212,6 +3374,7 @@
     ],
     "levels": [
       "Master's"
-    ]
+    ],
+    "originalSpreadsheet": false
   }
 ]

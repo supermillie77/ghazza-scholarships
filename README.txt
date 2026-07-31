@@ -61,3 +61,9 @@ data.json is also supplied for future updates and database reuse.
 
 Important: scholarship deadlines, eligibility, funding, visas, travel and safe
 passage can change. Applicants must confirm details with the official provider.
+
+
+INTERFACE UPDATE — 31 JULY 2026
+- Original spreadsheet records (143 cards) have a gold leading edge.
+- The Arabic toggle now switches page direction, interface labels, filters, source names, countries, study levels and common scholarship metadata into Arabic.
+- Official institution and scholarship names remain unchanged where they function as proper names.
