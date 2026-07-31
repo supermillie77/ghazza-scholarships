@@ -1,0 +1,7 @@
+Arabic translation audit
+Total opportunities: 163
+Checked fields: nameAr, coverageAr, deadlineAr, languageAr, notesAr
+Arabic fields containing Latin-script characters: 0
+Arabic renderer English fallbacks: removed
+Runtime visible-card Latin-script guard: enabled
+Build: arabic-complete-v3-20260731
