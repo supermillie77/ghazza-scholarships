@@ -81,15 +81,19 @@
         color: #e7f0ec;
       }
       .data-date {
-        display: inline-flex;
-        align-items: center;
-        gap: 7px;
+        display: grid;
+        gap: 4px;
         margin-top: 10px;
         color: #d6e8df;
         font-size: 0.88rem;
         font-weight: 650;
       }
-      .data-date::before {
+      .data-date span {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+      }
+      .data-date span::before {
         content: "◷";
         font-size: 1rem;
       }
@@ -134,7 +138,7 @@
       }
       .about-copy {
         display: grid;
-        gap: 10px;
+        gap: 12px;
       }
       .about-copy p {
         margin: 0;
@@ -142,8 +146,26 @@
         line-height: 1.65;
         max-width: 790px;
       }
+      .about-copy h3 {
+        margin: 12px 0 -4px;
+        color: var(--green2);
+        font-size: 1.08rem;
+      }
       .about-copy strong {
         color: var(--ink);
+      }
+      .about-note {
+        margin-top: 8px !important;
+        padding: 14px 16px;
+        border-left: 3px solid var(--gold);
+        background: #fff8df;
+        border-radius: 0 12px 12px 0;
+        font-size: 0.92rem;
+      }
+      [dir="rtl"] .about-note {
+        border-left: 0;
+        border-right: 3px solid var(--gold);
+        border-radius: 12px 0 0 12px;
       }
       .controls {
         position: sticky;
@@ -337,9 +359,15 @@
           spreadsheet and should be confirmed with each institution before
           applying.
         </p>
-        <p class="data-date" id="dataDate">
-          Scholarship data last reviewed: 30 July 2026
-        </p>
+        <div class="data-date" aria-label="Data dates">
+          <span id="siteUpdateDate">Website updated: 30 September 2026</span>
+          <span id="spreadsheetDate"
+            >Latest dated spreadsheet edit note: 8 April 2025</span
+          >
+          <span id="dataDate"
+            >Scholarship information independently reviewed: 30 July 2026</span
+          >
+        </div>
         <div class="statbar">
           <div class="stat">
             <b id="totalStat">0</b><br /><span id="statOpp">opportunities</span>
@@ -365,16 +393,37 @@
         </div>
         <div class="about-copy">
           <p id="aboutSfgText">
-            <strong>Scholarships for Ghazza (SFG)</strong> brings scholarship
-            and university opportunities relevant to students from Gaza into one
-            searchable place. It is designed to make study level, location,
-            funding, deadlines and language requirements easier to compare.
+            Scholarships for Ghazza (SFG) is a Palestinian-led mentorship
+            programme helping students from Gaza apply for higher-education
+            scholarships. It was created after Gaza's universities were
+            destroyed, leaving students without a place to continue their
+            education.
           </p>
-          <p id="aboutSfgCaution">
-            The directory combines the original SFG spreadsheet with newly
-            researched opportunities. SFG does not award scholarships or control
-            admissions, visas, border permissions or evacuation. Always confirm
-            current details with the official provider before applying.
+          <h3 id="aboutWhatTitle">What SFG does</h3>
+          <p id="aboutWhatText">
+            SFG connects students with academic mentors who help them develop
+            personal statements and CVs, navigate university applications,
+            request fee waivers, choose courses and improve their English. SFG
+            may also provide limited support with application fees, visa costs,
+            English tests and essential internet and electricity access. The
+            spreadsheet says the programme had supported nearly 500 students and
+            planned to support another 500 over the following five months.
+          </p>
+          <h3 id="aboutStoryTitle">Our story</h3>
+          <p id="aboutStoryText">
+            SFG was founded by Ahmed Issa in August 2024 after he and his family
+            were evacuated from Gaza. His experience helping students secure
+            Chevening Scholarships showed that talented students often needed
+            guidance to present their experience effectively and navigate complex
+            applications. SFG pairs students with mentors and collects relevant
+            scholarship opportunities so they can continue pursuing education.
+          </p>
+          <p class="about-note" id="aboutSfgCaution">
+            SFG guides applicants towards existing opportunities; it does not
+            award the scholarships or control admissions, visas, border
+            permissions or evacuation. Programme figures above come from the SFG
+            spreadsheet and may have changed since its latest dated edit note.
+            Always confirm scholarship details with the official provider.
           </p>
         </div>
       </div>
@@ -3129,13 +3178,22 @@
           eyebrow: "Scholarships for Ghazza",
           title: "Worldwide study opportunities",
           hero: "A searchable directory of scholarships and university opportunities for students from Ghazza. Information is imported from the community spreadsheet and should be confirmed with each institution before applying.",
-          dataDate: "Scholarship data last reviewed: 30 July 2026",
+          siteUpdateDate: "Website updated: 30 September 2026",
+          spreadsheetDate: "Latest dated spreadsheet edit note: 8 April 2025",
+          dataDate:
+            "Scholarship information independently reviewed: 30 July 2026",
           aboutKicker: "ABOUT SFG",
           aboutTitle: "Scholarships for Ghazza",
           aboutText:
-            "Scholarships for Ghazza (SFG) brings scholarship and university opportunities relevant to students from Gaza into one searchable place. It is designed to make study level, location, funding, deadlines and language requirements easier to compare.",
+            "Scholarships for Ghazza (SFG) is a Palestinian-led mentorship programme helping students from Gaza apply for higher-education scholarships. It was created after Gaza's universities were destroyed, leaving students without a place to continue their education.",
+          aboutWhatTitle: "What SFG does",
+          aboutWhatText:
+            "SFG connects students with academic mentors who help them develop personal statements and CVs, navigate university applications, request fee waivers, choose courses and improve their English. SFG may also provide limited support with application fees, visa costs, English tests and essential internet and electricity access. The spreadsheet says the programme had supported nearly 500 students and planned to support another 500 over the following five months.",
+          aboutStoryTitle: "Our story",
+          aboutStoryText:
+            "SFG was founded by Ahmed Issa in August 2024 after he and his family were evacuated from Gaza. His experience helping students secure Chevening Scholarships showed that talented students often needed guidance to present their experience effectively and navigate complex applications. SFG pairs students with mentors and collects relevant scholarship opportunities so they can continue pursuing education.",
           aboutCaution:
-            "The directory combines the original SFG spreadsheet with newly researched opportunities. SFG does not award scholarships or control admissions, visas, border permissions or evacuation. Always confirm current details with the official provider before applying.",
+            "SFG guides applicants towards existing opportunities; it does not award the scholarships or control admissions, visas, border permissions or evacuation. Programme figures above come from the SFG spreadsheet and may have changed since its latest dated edit note. Always confirm scholarship details with the official provider.",
           opportunities: "opportunities",
           countries: "country/region labels",
           allLevels: "All levels",
@@ -3167,13 +3225,21 @@
           eyebrow: "منح دراسية لطلاب غزة",
           title: "فرص دراسية حول العالم",
           hero: "دليل قابل للبحث للمنح والفرص الجامعية المتاحة لطلاب غزة. تم استيراد المعلومات من جدول البيانات المجتمعي ويجب تأكيدها مع كل مؤسسة قبل التقديم.",
-          dataDate: "آخر مراجعة لبيانات المنح: 30 يوليو 2026",
+          siteUpdateDate: "آخر تحديث للموقع: 30 سبتمبر 2026",
+          spreadsheetDate: "أحدث ملاحظة مؤرخة لتعديل جدول البيانات: 8 أبريل 2025",
+          dataDate: "آخر مراجعة مستقلة لمعلومات المنح: 30 يوليو 2026",
           aboutKicker: "حول SFG",
           aboutTitle: "منح دراسية لغزة",
           aboutText:
-            "تجمع مبادرة منح دراسية لغزة (SFG) المنح والفرص الجامعية المناسبة لطلاب غزة في مكان واحد قابل للبحث، لتسهيل مقارنة المرحلة الدراسية والموقع والتمويل والمواعيد النهائية ومتطلبات اللغة.",
+            "منح دراسية لغزة (SFG) هو برنامج إرشاد بقيادة فلسطينية يساعد طلاب غزة على التقدم لمنح التعليم العالي. أُنشئ البرنامج بعد تدمير جامعات غزة، مما ترك الطلاب بلا مكان يواصلون فيه تعليمهم.",
+          aboutWhatTitle: "ما الذي تقدمه SFG",
+          aboutWhatText:
+            "تربط SFG الطلاب بمرشدين أكاديميين يساعدونهم على تطوير البيانات الشخصية والسير الذاتية، وفهم طلبات الجامعات، وطلب الإعفاء من الرسوم، واختيار المقررات وتحسين اللغة الإنجليزية. وقد تقدم أيضاً دعماً محدوداً لرسوم التقديم والتأشيرات واختبارات اللغة الإنجليزية والاحتياجات الأساسية للإنترنت والكهرباء. ويذكر جدول البيانات أن البرنامج كان قد دعم قرابة 500 طالب وخطط لدعم 500 آخرين خلال الأشهر الخمسة التالية.",
+          aboutStoryTitle: "قصتنا",
+          aboutStoryText:
+            "أسس أحمد عيسى مبادرة SFG في أغسطس 2024 بعد إجلائه هو وعائلته من غزة. وأظهرت تجربته في مساعدة الطلاب على الحصول على منح تشيفنينغ أن الطلاب الموهوبين يحتاجون غالباً إلى إرشاد لعرض تجاربهم بفعالية وفهم إجراءات التقديم المعقدة. تربط SFG الطلاب بالمرشدين وتجمع فرص المنح المناسبة لمساعدتهم على مواصلة تعليمهم.",
           aboutCaution:
-            "يجمع الدليل بين جدول بيانات SFG الأصلي وفرص إضافية جرى البحث عنها. لا تمنح SFG المنح الدراسية ولا تتحكم في القبول أو التأشيرات أو تصاريح الحدود أو الإجلاء. تحقق دائماً من التفاصيل الحالية مع الجهة الرسمية قبل التقديم.",
+            "ترشد SFG المتقدمين إلى الفرص المتاحة، لكنها لا تمنح المنح الدراسية ولا تتحكم في القبول أو التأشيرات أو تصاريح الحدود أو الإجلاء. الأرقام المذكورة أعلاه مأخوذة من جدول بيانات SFG وربما تغيرت منذ أحدث ملاحظة مؤرخة لتعديله. تحقق دائماً من تفاصيل المنحة مع الجهة الرسمية.",
           opportunities: "فرصة",
           countries: "دولة أو منطقة",
           allLevels: "جميع المراحل",
@@ -3208,10 +3274,16 @@
         $("eyebrow").textContent = t.eyebrow;
         $("heroTitle").textContent = t.title;
         $("heroText").textContent = t.hero;
+        $("siteUpdateDate").textContent = t.siteUpdateDate;
+        $("spreadsheetDate").textContent = t.spreadsheetDate;
         $("dataDate").textContent = t.dataDate;
         $("aboutSfgKicker").textContent = t.aboutKicker;
         $("aboutSfgTitle").textContent = t.aboutTitle;
         $("aboutSfgText").textContent = t.aboutText;
+        $("aboutWhatTitle").textContent = t.aboutWhatTitle;
+        $("aboutWhatText").textContent = t.aboutWhatText;
+        $("aboutStoryTitle").textContent = t.aboutStoryTitle;
+        $("aboutStoryText").textContent = t.aboutStoryText;
         $("aboutSfgCaution").textContent = t.aboutCaution;
         $("statOpp").textContent = t.opportunities;
         $("statCountries").textContent = t.countries;

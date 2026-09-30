@@ -1,5 +1,5 @@
 GHAZZA SCHOLARS WORLDWIDE
-Complete GitHub upload package — 30 July 2026
+Complete GitHub upload package — 30 September 2026
 
 FILES
 - index.html  : complete web app with an embedded copy of the data
@@ -20,13 +20,16 @@ DATABASE UPDATE
 
 FRONT PAGE
 - Restored a prominent "About SFG" section beneath the opening banner.
-- Explains the purpose of Scholarships for Ghazza and how the directory helps.
+- Includes SFG's Palestinian-led mentorship model, student support activities,
+  August 2024 founding story and the spreadsheet's programme figures.
 - Clearly states that SFG does not control admissions, visas, border permission
   or evacuation.
 - Included in both English and Arabic.
-- Added a visible "Scholarship data last reviewed: 30 July 2026" date near the
-  top of the page, with an Arabic equivalent. This reflects the last proper
-  scholarship-data review rather than the visitor's current date.
+- Added three visible dates near the top of the page, with Arabic equivalents:
+  "Website updated: 30 September 2026", "Latest dated spreadsheet edit note:
+  8 April 2025" and "Scholarship information independently reviewed: 30 July
+  2026". This distinguishes the website update, spreadsheet's last evidenced
+  edit and the later scholarship review.
 
 FILTER CORRECTIONS
 - Countries are stored as separate values, so a record covering Germany and
