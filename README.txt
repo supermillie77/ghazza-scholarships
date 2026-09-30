@@ -18,6 +18,16 @@ DATABASE UPDATE
 - Legacy rows already represented, expired or unavailable: 5
 - Final unique opportunities: 163
 
+FRONT PAGE
+- Restored a prominent "About SFG" section beneath the opening banner.
+- Explains the purpose of Scholarships for Ghazza and how the directory helps.
+- Clearly states that SFG does not control admissions, visas, border permission
+  or evacuation.
+- Included in both English and Arabic.
+- Added a visible "Scholarship data last reviewed: 30 July 2026" date near the
+  top of the page, with an Arabic equivalent. This reflects the last proper
+  scholarship-data review rather than the visitor's current date.
+
 FILTER CORRECTIONS
 - Countries are stored as separate values, so a record covering Germany and
   India appears under both "Germany" and "India" rather than a combined filter.
@@ -61,21 +71,3 @@ data.json is also supplied for future updates and database reuse.
 
 Important: scholarship deadlines, eligibility, funding, visas, travel and safe
 passage can change. Applicants must confirm details with the official provider.
-
-
-INTERFACE UPDATE — 31 JULY 2026
-- Original spreadsheet records (143 cards) have a gold leading edge.
-- The Arabic toggle now switches page direction, interface labels, filters, source names, countries, study levels and common scholarship metadata into Arabic.
-- Official institution and scholarship names remain unchanged where they function as proper names.
-
-
-Arabic card translation fix:
-- Every card now contains dedicated Arabic fields for title, funding, deadline, language and description.
-- Arabic mode no longer relies on partial on-screen word substitution.
-- The English source text remains in data.json alongside the Arabic version.
-
-
-Arabic card translation fix:
-- Every card now contains dedicated Arabic fields for title, funding, deadline, language and description.
-- Arabic mode no longer relies on partial on-screen word substitution.
-- The English source text remains in data.json alongside the Arabic version.
